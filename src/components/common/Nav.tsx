@@ -4,7 +4,7 @@ import { MdOutlineNightlight, MdOutlineLightMode } from 'react-icons/md'
 
 export default function Nav() {
   return (
-    <header className="flex justify-between items-center h-24 px-5 mb-4 bg-slate-50 ">
+    <header className="flex justify-between items-center h-24 px-5 bg-slate-50 ">
       <div>
         <Link to="/" className="flex justify-center items-center">
           <span className="font-serif text-3xl capitalize text-[#FF7680]">dreaming</span>
