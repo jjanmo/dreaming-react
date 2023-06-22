@@ -1,6 +1,7 @@
 import { PropsWithChildren, createContext, useState } from 'react'
 import { v4 as uuid } from 'uuid'
 
+export type Stat = Record<SelectedType, number>
 export type SelectedType = 'all' | 'active' | 'completed'
 export interface Todo {
   id: string
@@ -16,6 +17,7 @@ export interface TodosContextType {
   updateTodo: ({ id }: { id: string }) => void
   currentSelectedType: SelectedType
   updateSelectedType: ({ selectedType }: { selectedType: SelectedType }) => void
+  getTodosStat: () => Stat
 }
 
 export const TodosContext = createContext({} as TodosContextType)
@@ -46,6 +48,14 @@ export function TodosProvider({ children }: PropsWithChildren) {
     setSelectedType(selectedType)
   }
 
+  const getTodosStat = () => {
+    return {
+      all: todos.length,
+      active: todos.filter((todo) => !todo.done).length,
+      completed: todos.filter((todo) => todo.done).length,
+    }
+  }
+
   return (
     <TodosContext.Provider
       value={{
@@ -55,6 +65,7 @@ export function TodosProvider({ children }: PropsWithChildren) {
         updateTodo,
         currentSelectedType,
         updateSelectedType,
+        getTodosStat,
       }}
     >
       {children}
