@@ -2,11 +2,12 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@pages": ["src/pages"],
-      "@components": ["src/components"],
-      "@styles": ["src/styles"],
-      "@assets": ["src/assets"],
-      "@hooks": ["src/hooks"]
+      "@pages": ["src/pages/index.ts"],
+      "@pages/*": ["src/pages/*"],
+      "@components/*": ["src/components/*"],
+      "@style/*": ["src/styles/*"],
+      "@assets/*": ["src/assets/*"],
+      "@hooks/*": ["src/hooks/*"]
     },
 
     "target": "ES2020",
