@@ -13,14 +13,13 @@ export default function Header() {
   return (
     <div className="flex justify-end items-center h-16 px-8 py-6 bg-slate-50 dark:bg-slate-500 border-b border-slate-200 dark:border-slate-400 border-solid">
       {statArray.map(([selectedType, stat]) => (
-        <div className="mx-1">
+        <div key={selectedType} className="mx-1 dark:text-white">
           <Button
-            key={selectedType}
             selectedTypeAsText={selectedType as SelectedType}
             onClick={handleClick}
             currentSelectedType={currentSelectedType}
           />
-          ({stat})
+          <div className="inline-block w-6">({stat})</div>
         </div>
       ))}
     </div>
@@ -36,7 +35,7 @@ interface ButtonProps {
 function Button({ currentSelectedType, selectedTypeAsText, onClick }: ButtonProps) {
   return (
     <button
-      className={`px-1 ml-1 text-xl font-semibold transition duration-75 capitalize ${
+      className={`px-1 ml-1 text-xl font-semibold capitalize ${
         selectedTypeAsText === currentSelectedType
           ? 'text-blue-600 dark:text-blue-400 border-b-4 border-blue-600 dark:border-blue-400'
           : 'text-blue-400 dark:text-blue-200 border-b-4 border-transparent'
