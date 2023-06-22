@@ -14,14 +14,14 @@ export interface TodosContextType {
   addTodo: ({ content }: { content: string }) => void
   deleteTodo: ({ id }: { id: string }) => void
   updateTodo: ({ id }: { id: string }) => void
-  selectedType: SelectedType
-  updateSelectedType: ({ type }: { type: SelectedType }) => void
+  currentSelectedType: SelectedType
+  updateSelectedType: ({ selectedType }: { selectedType: SelectedType }) => void
 }
 
 export const TodosContext = createContext({} as TodosContextType)
 
 export function TodosProvider({ children }: PropsWithChildren) {
-  const [selectedType, setSelectedType] = useState<SelectedType>('all')
+  const [currentSelectedType, setSelectedType] = useState<SelectedType>('all')
   const [todos, setTodos] = useState<Todo[]>([])
 
   const addTodo = ({ content }: { content: string }) => {
@@ -42,8 +42,8 @@ export function TodosProvider({ children }: PropsWithChildren) {
   const updateTodo = ({ id }: { id: string }) => {
     setTodos((prev) => prev.map((todo) => (todo.id === id ? { ...todo, done: !todo.done } : todo)))
   }
-  const updateSelectedType = ({ type }: { type: SelectedType }) => {
-    setSelectedType(type)
+  const updateSelectedType = ({ selectedType }: { selectedType: SelectedType }) => {
+    setSelectedType(selectedType)
   }
 
   return (
@@ -53,7 +53,7 @@ export function TodosProvider({ children }: PropsWithChildren) {
         addTodo,
         deleteTodo,
         updateTodo,
-        selectedType,
+        currentSelectedType,
         updateSelectedType,
       }}
     >

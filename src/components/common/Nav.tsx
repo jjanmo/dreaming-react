@@ -1,8 +1,15 @@
 import { Link } from 'react-router-dom'
 import ReactLogo from 'src/icons/ReactLogo'
 import { MdOutlineNightlight, MdOutlineLightMode } from 'react-icons/md'
+import useDarkMode from '@hooks/useDarkMode'
 
 export default function Nav() {
+  const { isDarkMode, updateDarkMode } = useDarkMode()
+
+  const handleClickToggle = () => {
+    updateDarkMode()
+  }
+
   return (
     <header className="flex justify-between items-center h-24 px-5 bg-slate-50 ">
       <div>
@@ -34,9 +41,11 @@ export default function Nav() {
         </ul>
 
         <div className="ml-4">
-          <button className="flex justify-center items-center w-12 h-12 rounded-full hover:bg-slate-100">
-            {/* <MdOutlineNightlight size={30} /> */}
-            <MdOutlineNightlight size={28} />
+          <button
+            className="flex justify-center items-center w-12 h-12 rounded-full hover:bg-slate-100"
+            onClick={handleClickToggle}
+          >
+            {isDarkMode ? <MdOutlineLightMode size={30} /> : <MdOutlineNightlight size={28} />}
           </button>
         </div>
       </div>
