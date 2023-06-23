@@ -1,3 +1,3 @@
 export default function Youtube() {
-  return <div>This is Youtube</div>
+  return <section>This is Youtube</section>
 }

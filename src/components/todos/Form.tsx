@@ -8,10 +8,11 @@ export default function Form() {
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
 
-    if (content) {
-      addTodo({ content })
-      setContent('')
-    }
+    const trimed = content.trim()
+    if (!trimed) return
+
+    addTodo({ content: trimed })
+    setContent('')
   }
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
