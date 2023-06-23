@@ -1,3 +1,3 @@
-export default function Shopmall() {
-  return <div>This is Shopmall</div>
+export default function ShopMall() {
+  return <section>This is ShopMall</section>
 }
