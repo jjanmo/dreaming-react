@@ -11,7 +11,7 @@ export default function Header() {
   }
 
   return (
-    <div className="flex justify-end items-center h-16 px-8 py-6 bg-slate-50 dark:bg-slate-500 border-b border-slate-200 dark:border-slate-400 border-solid">
+    <div className="flex justify-end items-center h-20 px-8 bg-slate-50 dark:bg-slate-500 border-b border-slate-200 dark:border-slate-400 border-solid">
       {statArray.map(([selectedType, stat]) => (
         <div key={selectedType} className="mx-1 dark:text-white">
           <Button

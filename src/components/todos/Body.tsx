@@ -14,7 +14,7 @@ export default function Body() {
   }, [currentSelectedType, todos])
 
   return (
-    <div className="h-[466px] dark:bg-slate-700">
+    <div className="h-[calc(640px-10rem)] dark:bg-slate-700">
       <ul className="h-full py-4 overflow-y-scroll">
         {currentTodos && currentTodos.length > 0 ? (
           currentTodos.map((todo) => <Todo key={todo.id} {...todo} />)
