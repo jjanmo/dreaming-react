@@ -1,4 +1,5 @@
-import { PropsWithChildren, createContext, useState } from 'react'
+import useLocalStorage from '@hooks/useLocalStorage'
+import { PropsWithChildren, createContext, useEffect, useState } from 'react'
 import { v4 as uuid } from 'uuid'
 
 export type Stat = Record<SelectedType, number>
@@ -23,8 +24,10 @@ export interface TodosContextType {
 export const TodosContext = createContext({} as TodosContextType)
 
 export function TodosProvider({ children }: PropsWithChildren) {
+  const { getValue, setValue } = useLocalStorage<Todo[]>({ key: '@todos', initialValue: [] })
+
   const [currentSelectedType, setSelectedType] = useState<SelectedType>('all')
-  const [todos, setTodos] = useState<Todo[]>([])
+  const [todos, setTodos] = useState<Todo[]>(getValue())
 
   const addTodo = ({ content }: { content: string }) => {
     setTodos((prev) => [
@@ -55,6 +58,10 @@ export function TodosProvider({ children }: PropsWithChildren) {
       completed: todos.filter((todo) => todo.done).length,
     }
   }
+
+  useEffect(() => {
+    setValue(todos)
+  }, [todos, setValue])
 
   return (
     <TodosContext.Provider
