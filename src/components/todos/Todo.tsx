@@ -1,4 +1,4 @@
-import { Todo, TodosContext } from '@components/contexts/TodosContext'
+import { Todo, TodosContext } from '@contexts/TodosContext'
 import { useContext } from 'react'
 import { BsTrash } from 'react-icons/bs'
 

@@ -1,4 +1,4 @@
-import { TodosContext } from '@components/contexts/TodosContext'
+import { TodosContext } from '@contexts/TodosContext'
 import { useContext, useState } from 'react'
 
 export default function Form() {
@@ -22,7 +22,7 @@ export default function Form() {
 
   return (
     <form
-      className="flex justify-center items-center h-20 px-8  bg-slate-100 dark:bg-slate-600 border-t border-slate-200 dark:border-slate-400 border-solid "
+      className="flex justify-center items-center h-20 px-8 bg-slate-100 dark:bg-slate-600 border-t border-slate-200 dark:border-slate-400 border-solid"
       onSubmit={handleSubmit}
     >
       <input

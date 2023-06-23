@@ -1,7 +1,7 @@
 import Form from '@components/todos/Form'
 import Header from '@components/todos/Header'
 import Body from '@components/todos/Body'
-import { TodosProvider } from '@components/contexts/TodosContext'
+import { TodosProvider } from '@contexts/TodosContext'
 
 export default function Todos() {
   return (

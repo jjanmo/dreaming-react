@@ -1,5 +1,5 @@
 import { createBrowserRouter } from 'react-router-dom'
-import { Home, Todos, Youtube, Shopmall } from '@pages'
+import { Home, Todos, Youtube, ShopMall } from '@pages'
 import Root from './Root'
 
 export const router = createBrowserRouter([
@@ -22,7 +22,7 @@ export const router = createBrowserRouter([
       },
       {
         path: 'shopmall',
-        element: <Shopmall />,
+        element: <ShopMall />,
       },
     ],
   },

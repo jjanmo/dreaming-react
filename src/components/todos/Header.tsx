@@ -1,4 +1,4 @@
-import { SelectedType, TodosContext } from '@components/contexts/TodosContext'
+import { SelectedType, TodosContext } from '@contexts/TodosContext'
 import { useContext } from 'react'
 
 export default function Header() {
