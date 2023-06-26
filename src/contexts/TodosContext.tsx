@@ -31,7 +31,7 @@ export function TodosProvider({ children }: PropsWithChildren) {
   const { getValue, setValue } = useLocalStorage<Todo[]>({ key: '@todos', initialValue: [] })
 
   const [currentSelectedType, setSelectedType] = useState<SelectedType>('all')
-  const [todos, setTodos] = useState<Todo[]>(getValue())
+  const [todos, setTodos] = useState<Todo[]>(() => getValue())
 
   const addTodo = ({ content }: { content: string }) => {
     setTodos((prev) => [
