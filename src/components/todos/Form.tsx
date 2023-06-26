@@ -1,8 +1,8 @@
-import { TodosContext } from '@contexts/TodosContext'
-import { useContext, useState } from 'react'
+import useTodosContext from '@contexts/TodosContext'
+import { useState } from 'react'
 
 export default function Form() {
-  const { addTodo } = useContext(TodosContext)
+  const { addTodo } = useTodosContext()
   const [content, setContent] = useState<string>('')
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {

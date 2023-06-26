@@ -1,8 +1,7 @@
-import { SelectedType, TodosContext } from '@contexts/TodosContext'
-import { useContext } from 'react'
+import useTodosContext, { SelectedType } from '@contexts/TodosContext'
 
 export default function Header() {
-  const { updateSelectedType, currentSelectedType, getTodosStat } = useContext(TodosContext)
+  const { updateSelectedType, currentSelectedType, getTodosStat } = useTodosContext()
   const statArray = Object.entries(getTodosStat())
 
   const handleClick = (e: React.MouseEvent<HTMLButtonElement>) => {

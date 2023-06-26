@@ -1,9 +1,8 @@
-import { Todo, TodosContext } from '@contexts/TodosContext'
-import { useContext } from 'react'
+import useTodosContext, { Todo } from '@contexts/TodosContext'
 import { BsTrash } from 'react-icons/bs'
 
 export default function Todo({ id, content, done }: Todo) {
-  const { updateTodo, deleteTodo } = useContext(TodosContext)
+  const { updateTodo, deleteTodo } = useTodosContext()
 
   const handleChange = () => {
     updateTodo({ id })
