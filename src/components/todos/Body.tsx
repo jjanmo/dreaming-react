@@ -15,7 +15,7 @@ export default function Body() {
 
   return (
     <div className="h-[calc(640px-10rem)] dark:bg-slate-700">
-      <ul className="h-full py-4 overflow-y-scroll">
+      <ul className="h-full py-4 overflow-y-auto">
         {currentTodos && currentTodos.length > 0 ? (
           currentTodos.map((todo) => <Todo key={todo.id} {...todo} />)
         ) : (
