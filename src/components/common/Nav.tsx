@@ -4,10 +4,10 @@ import { MdOutlineNightlight, MdOutlineLightMode } from 'react-icons/md'
 import useDarkMode from '@hooks/useDarkMode'
 
 export default function Nav() {
-  const { isDarkMode, updateDarkMode } = useDarkMode()
+  const { isDarkMode, toggleDarkMode } = useDarkMode()
 
   const handleClickToggle = () => {
-    updateDarkMode()
+    toggleDarkMode()
   }
 
   return (

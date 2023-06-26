@@ -5,10 +5,6 @@ export default function useDarkMode() {
   const { getValue, setValue } = useLocalStorage<boolean>({ key: '@darkmode', initialValue: false })
   const [isDarkMode, setDarkMode] = useState<boolean>(getValue())
 
-  const updateDarkMode = () => {
-    setDarkMode((prev) => !prev)
-  }
-
   useEffect(() => {
     setValue(isDarkMode)
 
@@ -18,6 +14,6 @@ export default function useDarkMode() {
 
   return {
     isDarkMode,
-    updateDarkMode,
+    toggleDarkMode: () => setDarkMode((prev) => !prev),
   }
 }
