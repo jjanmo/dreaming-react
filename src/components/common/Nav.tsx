@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
-import ReactLogo from 'src/icons/ReactLogo'
 import { MdOutlineNightlight, MdOutlineLightMode } from 'react-icons/md'
 import useDarkMode from '@hooks/useDarkMode'
+import { TailwindCSS, React, Typescript } from '@icons/Logos'
 
 export default function Nav() {
   const { isDarkMode, toggleDarkMode } = useDarkMode()
@@ -14,12 +14,18 @@ export default function Nav() {
     <header className="flex justify-between items-center h-24 px-5 bg-slate-50 ">
       <div>
         <Link to="/" className="flex justify-center items-center">
-          <span className="font-serif text-3xl capitalize text-[#FF7680]">dreaming</span>
-          <ReactLogo />
-          <span className="px-3 py-2 font-mono text-4xl font-medium tracking-tight capitalize bg-[#087EA4] text-white rounded-xl">
-            react
-          </span>
+          <div className="flex flex-col">
+            <span className="font-serif text-3xl capitalize text-[#FF7680]">dreaming</span>
+            <span className="font-mono text-lg text-right	font-medium tracking-tight capitalize text-[#087EA4]">
+              react
+            </span>
+          </div>
         </Link>
+      </div>
+      <div className="relative w-[80px] h-[80px] flex justify-center items-center">
+        <TailwindCSS />
+        <Typescript />
+        <React />
       </div>
       <div className="flex items-center">
         <ul className="flex justify-end basis-1/2">
