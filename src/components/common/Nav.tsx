@@ -3,7 +3,7 @@ import { MdOutlineNightlight, MdOutlineLightMode } from 'react-icons/md'
 import useDarkMode from '@hooks/useDarkMode'
 import { TailwindCSS, React, Typescript } from '@icons/Logos'
 
-export default function Nav() {
+const Nav = () => {
   const { isDarkMode, toggleDarkMode } = useDarkMode()
 
   const handleClickToggle = () => {
@@ -58,3 +58,5 @@ export default function Nav() {
     </header>
   )
 }
+
+export default Nav
