@@ -1,4 +1,4 @@
-import useTodosContext, { SelectedType } from '@contexts/TodosContext'
+import useTodosContext, { type SelectedType } from '@contexts/TodosContext'
 
 export default function Header() {
   const { updateSelectedType, currentSelectedType, getTodosStat } = useTodosContext()

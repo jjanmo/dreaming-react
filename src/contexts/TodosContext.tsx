@@ -1,5 +1,5 @@
 import useLocalStorage from '@hooks/useLocalStorage'
-import { PropsWithChildren, createContext, useContext, useEffect, useState } from 'react'
+import { type PropsWithChildren, createContext, useContext, useEffect, useState } from 'react'
 import { v4 as uuid } from 'uuid'
 
 export type Stat = Record<SelectedType, number>

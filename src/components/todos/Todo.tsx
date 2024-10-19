@@ -1,7 +1,7 @@
-import useTodosContext, { Todo } from '@contexts/TodosContext'
+import useTodosContext, { type Todo as TodoType } from '@contexts/TodosContext'
 import { BsTrash } from 'react-icons/bs'
 
-export default function Todo({ id, content, done }: Todo) {
+export default function Todo({ id, content, done }: TodoType) {
   const { updateTodo, deleteTodo } = useTodosContext()
 
   const handleChange = () => {

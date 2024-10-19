@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import Todo from './Todo'
-import useTodosContext, { SelectedType, Todo as TodoType } from '@contexts/TodosContext'
+import useTodosContext, { type SelectedType, type Todo as TodoType } from '@contexts/TodosContext'
 
 export default function Body() {
   const { todos, currentSelectedType } = useTodosContext()
