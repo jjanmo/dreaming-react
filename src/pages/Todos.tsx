@@ -1,9 +1,9 @@
+import { TodosProvider } from '@contexts/TodosContext'
 import Form from '@components/todos/Form'
 import Header from '@components/todos/Header'
 import Body from '@components/todos/Body'
-import { TodosProvider } from '@contexts/TodosContext'
 
-export default function Todos() {
+const Todos = () => {
   return (
     <TodosProvider>
       <section className="flex justify-center items-center w-full h-[calc(100vh-96px)]">
@@ -16,3 +16,5 @@ export default function Todos() {
     </TodosProvider>
   )
 }
+
+export default Todos
