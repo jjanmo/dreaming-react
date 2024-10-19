@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link } from '@tanstack/react-router'
 import { MdOutlineNightlight, MdOutlineLightMode } from 'react-icons/md'
 import useDarkMode from '@hooks/useDarkMode'
 import { TailwindCSS, React, Typescript } from '@icons/Logos'
