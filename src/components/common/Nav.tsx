@@ -11,7 +11,7 @@ const Nav = () => {
   }
 
   return (
-    <header className="flex justify-between items-center h-24 px-5 bg-slate-50 ">
+    <header className="flex justify-between items-center h-24 px-5 bg-slate-100 dark:bg-gray-800">
       <div>
         <Link to="/" className="flex justify-center items-center">
           <div className="flex flex-col">
@@ -29,17 +29,17 @@ const Nav = () => {
       </div>
       <div className="flex items-center">
         <ul className="flex justify-end basis-1/2">
-          <li className="rounded-full px-3 py-1 mx-1 text-lg font-medium leading-7 text-[#535967]  hover:bg-slate-100">
+          <li className="rounded-2xl px-4 py-1 mx-1 text-lg font-medium leading-7 text-slate-500  dark:text-white hover:bg-gray-200 dark:hover:bg-slate-500">
             <Link to="/todos" className="block">
               TodoApp
             </Link>
           </li>
-          <li className="rounded-full px-3 py-1 mx-1 text-lg font-medium leading-7 text-[#535967] hover:bg-slate-100">
+          <li className="rounded-2xl px-4 py-1 mx-1 text-lg font-medium leading-7 text-slate-500 dark:text-white hover:bg-gray-200 dark:hover:bg-slate-500">
             <Link to="/youtube" className="block">
               Youtube
             </Link>
           </li>
-          <li className="rounded-full px-3 py-1 mx-1 text-lg font-medium leading-7 text-[#535967] hover:bg-slate-100">
+          <li className="rounded-2xl px-4 py-1 mx-1 text-lg font-medium leading-7 text-slate-500 dark:text-white hover:bg-gray-200 dark:hover:bg-slate-500">
             <Link to="/shopmall" className="block">
               ShopMall
             </Link>
@@ -48,10 +48,10 @@ const Nav = () => {
 
         <div className="ml-4">
           <button
-            className="flex justify-center items-center w-12 h-12 rounded-full hover:bg-slate-100"
+            className="flex justify-center items-center w-12 h-12 rounded-full  text-slate-500 dark:text-white hover:bg-gray-200 dark:hover:bg-slate-500"
             onClick={handleClickToggle}
           >
-            {isDarkMode ? <MdOutlineLightMode size={30} /> : <MdOutlineNightlight size={28} />}
+            {isDarkMode ? <MdOutlineNightlight size={30} /> : <MdOutlineLightMode size={30} />}
           </button>
         </div>
       </div>

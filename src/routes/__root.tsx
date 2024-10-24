@@ -20,7 +20,7 @@ const Root = () => {
     <>
       <Nav />
 
-      <main>
+      <main className="dark:bg-gray-900">
         <Outlet />
       </main>
 
