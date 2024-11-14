@@ -20,7 +20,7 @@ const Root = () => {
     <>
       <Nav />
 
-      <main className="dark:bg-gray-900">
+      <main className="min-h-[calc(100vh-96px)] dark:bg-gray-900  dark:text-white">
         <Outlet />
       </main>
 

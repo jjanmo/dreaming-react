@@ -25,14 +25,17 @@ export default function Todo({ id, content, done }: TodoType) {
         onChange={handleChange}
         checked={done}
       />
-      <label className="text-lg w-full h-full px-4 flex items-center cursor-pointer" htmlFor={id}>
+      <label
+        htmlFor={id}
+        className="text-lg w-full h-full px-4 flex items-center cursor-pointer text-black"
+      >
         {content}
       </label>
       <button
         className="flex justify-center items-center rounded-full hover:scale-125 hover:rotate-12 transition duration-150 ease-in-out"
         onClick={handleClickDelete}
       >
-        <BsTrash />
+        <BsTrash className="text-black" />
       </button>
     </li>
   )

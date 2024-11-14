@@ -1,5 +1,11 @@
+import SearchForm from '@components/yuotube/SearchForm'
+
 const Youtube = () => {
-  return <section>This is Youtube</section>
+  return (
+    <section className="pt-5">
+      <SearchForm />
+    </section>
+  )
 }
 
 export default Youtube
