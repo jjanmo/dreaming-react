@@ -1,0 +1,1626 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Edc3DB2BIOh2ldz2xqhysZTmHDM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "dYHi8R4EKror2WpSzagpbBMrm4Y",
+      "id": "LpRxnECP0x8",
+      "snippet": {
+        "publishedAt": "2025-03-23T12:40:34Z",
+        "channelId": "UCfqVrM2cvwxG3-EvxbsN0KQ",
+        "title": "오로라 보러 온 덤앤더머 자매의 노르웨이 여행기 1탄.",
+        "description": "오로라... 이게 되네..?\n\n\n이번 여행을 함께한 스웨덴 프리미엄 순수 전기차 브랜드 폴스타\n제가 타본 폴스타 4를 지금 시승 예약할 수 있다고 하니 아래 링크 클릭!\nhttps://www.polestar.com/kr/test-drive/booking/ps4/at-polestar\n\n✨ 무려 올해의 차 2관왕 수상에 빛나는 폴스타 4\n✨ 뒷유리가 없는 혁신적인 디자인 \n✨ SUV 쿠페답게, 넓은 공간감과 날렵한 디자인\n✨ 개방감 최고인 시-원한 파노라믹 글래스 루프\n✨ 강렬한 퍼포먼스 그러나 조용한 주행\n\n이 영상은 ‘폴스타’ 의 유료광고를 포함하고 있습니다.\n\n\n*영상에서 제가 착용한 옷과 소품은 모두 Àvie muah 입니다 ෆ \n🔗 https://aviemuah.com\n\n*위 온라인 스토어에서 찾을 수 없는 아이템은.. 테스트 샘플 혹은 *출시 예정*일 수 있습니다 ＼(°o°；）ㅁ\n\nCopyright © 2018-2025 by iammingki. All rights reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpRxnECP0x8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpRxnECP0x8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpRxnECP0x8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LpRxnECP0x8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LpRxnECP0x8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "걍밍경",
+        "tags": [
+          "강민경",
+          "다비치",
+          "davichi",
+          "kang min kyung",
+          "choi jung hoon",
+          "브이로그",
+          "자취 브이로그",
+          "연예인 브이로그",
+          "먹방",
+          "vlog",
+          "mukbang",
+          "한국 브이로그",
+          "k-pop",
+          "이해리",
+          "iammingki",
+          "다비치 브이로그",
+          "강휴지",
+          "자취브이로그",
+          "일상브이로그",
+          "ootd",
+          "패션",
+          "fashion",
+          "아붸뫄",
+          "강민경 쇼핑몰",
+          "강아지",
+          "애견",
+          "후지",
+          "휴지",
+          "감자",
+          "컴백",
+          "강민경 식단",
+          "korean",
+          "다비치 케미",
+          "비치비치다비치",
+          "강민경반지",
+          "강민경사복",
+          "여자브이로그",
+          "30대브이로그",
+          "20대브이로그",
+          "먹방브이로그",
+          "mukbang vlog",
+          "미혼",
+          "맛집",
+          "아비에무아",
+          "avie muah",
+          "강민경 건물",
+          "강민경 사옥",
+          "강민경 브랜드",
+          "걍밍경",
+          "갓생",
+          "자기관리",
+          "동기부여",
+          "오로라",
+          "오로라 투어",
+          "노르웨이",
+          "헬싱키",
+          "핀란드",
+          "aurora",
+          "덤앤더머",
+          "다비치 예능",
+          "norway",
+          "폴스타"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "오로라 보러 온 덤앤더머 자매의 노르웨이 여행기 1탄.",
+          "description": "오로라... 이게 되네..?\n\n\n이번 여행을 함께한 스웨덴 프리미엄 순수 전기차 브랜드 폴스타\n제가 타본 폴스타 4를 지금 시승 예약할 수 있다고 하니 아래 링크 클릭!\nhttps://www.polestar.com/kr/test-drive/booking/ps4/at-polestar\n\n✨ 무려 올해의 차 2관왕 수상에 빛나는 폴스타 4\n✨ 뒷유리가 없는 혁신적인 디자인 \n✨ SUV 쿠페답게, 넓은 공간감과 날렵한 디자인\n✨ 개방감 최고인 시-원한 파노라믹 글래스 루프\n✨ 강렬한 퍼포먼스 그러나 조용한 주행\n\n이 영상은 ‘폴스타’ 의 유료광고를 포함하고 있습니다.\n\n\n*영상에서 제가 착용한 옷과 소품은 모두 Àvie muah 입니다 ෆ \n🔗 https://aviemuah.com\n\n*위 온라인 스토어에서 찾을 수 없는 아이템은.. 테스트 샘플 혹은 *출시 예정*일 수 있습니다 ＼(°o°；）ㅁ\n\nCopyright © 2018-2025 by iammingki. All rights reserved."
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3ztXK9WMzLaFmfchNnuBiNfUbug",
+      "id": "TJWsTCVJxnw",
+      "snippet": {
+        "publishedAt": "2025-03-23T08:00:26Z",
+        "channelId": "UCN5XdqTDRbyjXPF5NXUqWdA",
+        "title": "하나둘씩 전역하는 BTS 멤버들...... 홉아.. 계획이 ㄷㅏ 있는 거지 그렇지!?!???",
+        "description": "너무 건강하고 멋진 제이홉!! 앞으로 모든 활동 기대하고 지켜볼게~!!!\n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n📌 그린너트 특별 이벤트 안내 📌\n20년 이상 전통의 견과 전문 브랜드 #그린너트\n수입부터 제조까지 책임지는 프리미엄 견과류 브랜드입니다.\n✅ 말모말모~ 왕의 디저트 그린너트\n• 견과류정과(호두정과, 피칸정과, 캐슈정과)\n👉 균일하고 얇은 프로스팅 공법 코팅으로 반짝반짝 바삭콰삭 식감\n• 아몬드스프레드 스무스&크런치)\n👉 콜로이드밀(맷돌방식)로 만든 크리미한 질감의 100% 아몬드의 고소한 맛\n \n✅ 그린너트 X Hmall 찬스딜 15% 할인 기획전 (3/23~4/1)\n🔗 기획전 바로가기 : https://bit.ly/41O0Rc3\n• 아몬드스프레드 최저가! 전품목 15% 할인 + 무료배송\n \n✅ 그린너트 브랜드스토어 이벤트 (3/23~3/31)\n🔗 이벤트 바로가기 : https://bit.ly/4kMtj6R\n• [누구나 구매] 호두정과 BEST 특가\n→ 호두정과 최대 46% 할인\n• [라운지 전용] 요정 시그니처 컬렉션\n→ 정과 3종 + 스프레드 2종 세트 구매 시 원데이샷 멀티비타민(13,900원 상당) 증정 🎁\n• [알림받기 전용] 파바빈 300g 추가 증정 🔔\n→ 요정재형 소개상품 구매 시 단품 1개만 사도 증정!\n• 라운지스토리 댓글 이벤트 ✏️\n→ 응원 또는 유튜브 감상 댓글 작성자 전원 1,000원 할인쿠폰 지급\n \n✅ 그린너트 인스타그램 이벤트 (3/24~4/6, 당첨자 발표: 4월 9일)\n🔗 인스타그램 바로가기 : https://bit.ly/4l4giWz\n• 이벤트① 상품구매 후기 업로드\n→ 그린너트 태그 및 지정된 해시태그 게시물 작성 시 10명에게 10만원 상품권 증정\n• 이벤트② 인스타그램 게시물 댓글 참여\n→ 100명 추첨 호두정과 무료증정\n\n \n🥜 한국 전통 그대로의 맛을 그린너트에서 만나보세요!\n다양한 채널 (롯데마트, 롯데슈퍼, 현대백화점, AK백화점, 홈플러스 메가푸드마켓 등 )\n다양한 오프라인 마켓에서도 만나 보실 수 있습니다. \n\n본 영상은 그린너트(동우농산)의 제작비를 협찬 받아 제작되었습니다.\n\n이벤트 관련 자세한 사항은 이벤트 상세페이지를 참조해 주세요.\n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n00:00 하이라이트\n00:58 오프닝\n05:15 제이홉 입장 및 토크😎\n\n#제이홉 #bts #jhope",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJWsTCVJxnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJWsTCVJxnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJWsTCVJxnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TJWsTCVJxnw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TJWsTCVJxnw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "요정재형",
+        "tags": [
+          "정재형",
+          "요정재형",
+          "요정",
+          "페어리",
+          "강민경",
+          "걍밍경",
+          "유재석",
+          "뜬뜬",
+          "뚠뚠",
+          "이미주",
+          "미주",
+          "런닝맨",
+          "이적",
+          "다행이다",
+          "안테나뮤직",
+          "안테나",
+          "유희열",
+          "이효리",
+          "해듬이",
+          "강아지",
+          "반려견",
+          "반려인",
+          "해듬",
+          "시각장애인",
+          "시각장애인 안내견",
+          "안내견",
+          "안내견학교",
+          "삼성화재 안내견학교",
+          "피아노",
+          "피아노 연주",
+          "정재형 피아노",
+          "무한도전",
+          "무한도전 정재형",
+          "순정마초",
+          "무한도전 순정마초",
+          "정재형 순정마초",
+          "애견인",
+          "파리지앵",
+          "프랑스어",
+          "화분",
+          "정원",
+          "가드닝",
+          "베란다 가드닝",
+          "리트리버",
+          "래브라도 리트리버",
+          "엄정화",
+          "이상순",
+          "성시경",
+          "running",
+          "식물",
+          "식집사",
+          "식물 키우기",
+          "베란다 정원",
+          "정원 꾸미기",
+          "jhope",
+          "jhope mona lisa",
+          "제이홉",
+          "bts",
+          "bts jhope",
+          "제이홉 모나리자",
+          "제이홉 신곡",
+          "제이홉 스윗드림",
+          "제이홉 sweet dream",
+          "jhope sweet dream",
+          "제이홉 토크쇼",
+          "나혼산 제이홉",
+          "제이홉 냉부",
+          "냉부 제이홉",
+          "냉장고를부탁해 제이홉",
+          "방탄소년단"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "하나둘씩 전역하는 BTS 멤버들...... 홉아.. 계획이 ㄷㅏ 있는 거지 그렇지!?!???",
+          "description": "너무 건강하고 멋진 제이홉!! 앞으로 모든 활동 기대하고 지켜볼게~!!!\n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n📌 그린너트 특별 이벤트 안내 📌\n20년 이상 전통의 견과 전문 브랜드 #그린너트\n수입부터 제조까지 책임지는 프리미엄 견과류 브랜드입니다.\n✅ 말모말모~ 왕의 디저트 그린너트\n• 견과류정과(호두정과, 피칸정과, 캐슈정과)\n👉 균일하고 얇은 프로스팅 공법 코팅으로 반짝반짝 바삭콰삭 식감\n• 아몬드스프레드 스무스&크런치)\n👉 콜로이드밀(맷돌방식)로 만든 크리미한 질감의 100% 아몬드의 고소한 맛\n \n✅ 그린너트 X Hmall 찬스딜 15% 할인 기획전 (3/23~4/1)\n🔗 기획전 바로가기 : https://bit.ly/41O0Rc3\n• 아몬드스프레드 최저가! 전품목 15% 할인 + 무료배송\n \n✅ 그린너트 브랜드스토어 이벤트 (3/23~3/31)\n🔗 이벤트 바로가기 : https://bit.ly/4kMtj6R\n• [누구나 구매] 호두정과 BEST 특가\n→ 호두정과 최대 46% 할인\n• [라운지 전용] 요정 시그니처 컬렉션\n→ 정과 3종 + 스프레드 2종 세트 구매 시 원데이샷 멀티비타민(13,900원 상당) 증정 🎁\n• [알림받기 전용] 파바빈 300g 추가 증정 🔔\n→ 요정재형 소개상품 구매 시 단품 1개만 사도 증정!\n• 라운지스토리 댓글 이벤트 ✏️\n→ 응원 또는 유튜브 감상 댓글 작성자 전원 1,000원 할인쿠폰 지급\n \n✅ 그린너트 인스타그램 이벤트 (3/24~4/6, 당첨자 발표: 4월 9일)\n🔗 인스타그램 바로가기 : https://bit.ly/4l4giWz\n• 이벤트① 상품구매 후기 업로드\n→ 그린너트 태그 및 지정된 해시태그 게시물 작성 시 10명에게 10만원 상품권 증정\n• 이벤트② 인스타그램 게시물 댓글 참여\n→ 100명 추첨 호두정과 무료증정\n\n \n🥜 한국 전통 그대로의 맛을 그린너트에서 만나보세요!\n다양한 채널 (롯데마트, 롯데슈퍼, 현대백화점, AK백화점, 홈플러스 메가푸드마켓 등 )\n다양한 오프라인 마켓에서도 만나 보실 수 있습니다. \n\n본 영상은 그린너트(동우농산)의 제작비를 협찬 받아 제작되었습니다.\n\n이벤트 관련 자세한 사항은 이벤트 상세페이지를 참조해 주세요.\n― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ―\n00:00 하이라이트\n00:58 오프닝\n05:15 제이홉 입장 및 토크😎\n\n#제이홉 #bts #jhope"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "H_polHInBr9sI_ao9EmhqXpsqxE",
+      "id": "vRljX1WTbUI",
+      "snippet": {
+        "publishedAt": "2025-03-22T10:55:58Z",
+        "channelId": "UCR5cyf8hncN_AaQPfmvmlgA",
+        "title": "조째즈 (ZO ZAZZ) - 서쪽하늘 [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 250322 방송",
+        "description": "조째즈 (ZO ZAZZ) - 서쪽하늘\n\nCopyright ⓒ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지\n\n#조째즈 #서쪽하늘 #불후의명곡 #리메이크 #음악예능 #노래대결 #전설 #세대공감 #가요 #추억 #명곡 #ImmortalSongs2 \n\n----------------------------------------------\n        ▶ Homepage : https://program.kbs.co.kr/2tv/enter/satfreedom/pc/index.html\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/@LegendKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRljX1WTbUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRljX1WTbUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRljX1WTbUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vRljX1WTbUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "KBS 레전드 케이팝",
+        "tags": [
+          "조째즈",
+          "서쪽하늘",
+          "불후의 명곡",
+          "리메이크",
+          "음악예능",
+          "노래대결",
+          "전설",
+          "세대공감",
+          "가요",
+          "추억",
+          "명곡",
+          "ImmortalSongs2"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "조째즈 (ZO ZAZZ) - 서쪽하늘 [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 250322 방송",
+          "description": "조째즈 (ZO ZAZZ) - 서쪽하늘\n\nCopyright ⓒ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지\n\n#조째즈 #서쪽하늘 #불후의명곡 #리메이크 #음악예능 #노래대결 #전설 #세대공감 #가요 #추억 #명곡 #ImmortalSongs2 \n\n----------------------------------------------\n        ▶ Homepage : https://program.kbs.co.kr/2tv/enter/satfreedom/pc/index.html\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/@LegendKpop\n----------------------------------------------"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RoDInjm_PyWWQ3hftTnuBhCL9qo",
+      "id": "HfN_7vId5zI",
+      "snippet": {
+        "publishedAt": "2025-03-22T10:49:32Z",
+        "channelId": "UChgOgRNxrtCcVARDQT_c-Zg",
+        "title": "결혼은 안 할 여자친구",
+        "description": "#차박 #남자이별신호 #술자리 #성향차이 #이별사유 #괜찮은척\n멤버십 가입 \nhttps://www.youtube.com/channel/UChgOgRNxrtCcVARDQT_c-Zg/join\n\n\n\n\n\n동시녹음 원경찬 \n붐오퍼레이터 홍준범\nhttps://www.instagram.com/paper_sound_\n\n분장 총괄\n이지혜 \nhttps://www.instagram.com/@arte_leejihye\nhttps://www.instagram.com/@arte_cheongdam\n\n헤어\n가을 https://www.instagram.com/@arte_autumn\n\n광고문의 - ad@shortenm.com\n일반문의 - short_paper@naver.com\n배우지원 - short_audi@naver.com\n배우협업문의 - casting@shortenm.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HfN_7vId5zI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HfN_7vId5zI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HfN_7vId5zI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HfN_7vId5zI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HfN_7vId5zI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "짧은대본 ShortPaper",
+        "tags": [
+          "드라마",
+          "web drama",
+          "남사친",
+          "여사친",
+          "로멘스",
+          "연애",
+          "사랑",
+          "love",
+          "대학교",
+          "대학생활",
+          "결혼",
+          "생활습관",
+          "습관"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "결혼은 안 할 여자친구",
+          "description": "#차박 #남자이별신호 #술자리 #성향차이 #이별사유 #괜찮은척\n멤버십 가입 \nhttps://www.youtube.com/channel/UChgOgRNxrtCcVARDQT_c-Zg/join\n\n\n\n\n\n동시녹음 원경찬 \n붐오퍼레이터 홍준범\nhttps://www.instagram.com/paper_sound_\n\n분장 총괄\n이지혜 \nhttps://www.instagram.com/@arte_leejihye\nhttps://www.instagram.com/@arte_cheongdam\n\n헤어\n가을 https://www.instagram.com/@arte_autumn\n\n광고문의 - ad@shortenm.com\n일반문의 - short_paper@naver.com\n배우지원 - short_audi@naver.com\n배우협업문의 - casting@shortenm.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gm7Mgk-xCkhBjSrSGR2iXHUonOI",
+      "id": "C52Mm5ZCj7U",
+      "snippet": {
+        "publishedAt": "2025-03-22T08:00:08Z",
+        "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+        "title": "[미니 팔레트] 동갑 케미 달아요 '검'나 달아요🍊(With 박보검) Ep.1",
+        "description": "[Mini Palette] Their chemistry is so sweet like chewing 'GUM'🍊(With Park Bo-gum) Ep.1\n\n#아이유 #박보검 #미니팔레트\n\n[IU Official SNS]\n\nYouTube ▶ https://www.youtube.com/@dlwlrma\nInstagram ▶ https://www.instagram.com/dlwlrma/\nInstagram ▶ https://www.instagram.com/iu_edamofficial/\nX ▶https://twitter.com/_IUofficial\nTiktok ▶ https://www.tiktok.com/@_iuofficial\nFancafe ▶ https://cafe.daum.net/IU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C52Mm5ZCj7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C52Mm5ZCj7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C52Mm5ZCj7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C52Mm5ZCj7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C52Mm5ZCj7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이지금 [IU Official]",
+        "tags": [
+          "IU",
+          "아이유",
+          "이담",
+          "EDAM",
+          "이지금",
+          "dlwlrma",
+          "아이유tv",
+          "아티비",
+          "아이유티비",
+          "아이유의팔레트",
+          "팔레트",
+          "미니팔레트",
+          "박보검",
+          "한낮의 꿈",
+          "눈사람",
+          "귀로",
+          "에필로그",
+          "금요일에 만나요",
+          "폭싹 속았수다",
+          "넷플릭스",
+          "오애순",
+          "양관식",
+          "달아요"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[미니 팔레트] 동갑 케미 달아요 '검'나 달아요🍊(With 박보검) Ep.1",
+          "description": "[Mini Palette] Their chemistry is so sweet like chewing 'GUM'🍊(With Park Bo-gum) Ep.1\n\n#아이유 #박보검 #미니팔레트\n\n[IU Official SNS]\n\nYouTube ▶ https://www.youtube.com/@dlwlrma\nInstagram ▶ https://www.instagram.com/dlwlrma/\nInstagram ▶ https://www.instagram.com/iu_edamofficial/\nX ▶https://twitter.com/_IUofficial\nTiktok ▶ https://www.tiktok.com/@_iuofficial\nFancafe ▶ https://cafe.daum.net/IU"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FMlABddX5fjCMGNYsFEtlmeUUq8",
+      "id": "VtB-6sv_C7w",
+      "snippet": {
+        "publishedAt": "2025-03-23T05:44:02Z",
+        "channelId": "UCta_NRwnsUaew0t3VNxBNyg",
+        "title": "어그로 아니고 진짜 갑니다",
+        "description": "김재원 메일 wodnjs2601@naver.com  (사담 X)\n구독 눌러주시고 알람해주시면\n더 빠르게 제영상을 보실수있당가요",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VtB-6sv_C7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VtB-6sv_C7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VtB-6sv_C7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VtB-6sv_C7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VtB-6sv_C7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김재원의 즐거운 세상",
+        "tags": ["김재원", "김재원 군대", "김재원 입대"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "어그로 아니고 진짜 갑니다",
+          "description": "김재원 메일 wodnjs2601@naver.com  (사담 X)\n구독 눌러주시고 알람해주시면\n더 빠르게 제영상을 보실수있당가요"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xLlIq-kq0bKeC6i0dUhTIfPNDtk",
+      "id": "nsDuzXXZbvs",
+      "snippet": {
+        "publishedAt": "2025-03-22T14:06:32Z",
+        "channelId": "UCZBnTuV4vECT_JiJcZkxE2A",
+        "title": "[월간데이트 리액션/3월호] 마라탕 5단계 먹방(진짜 리액션함)",
+        "description": "안녕하세요\n오늘은 월간데이트 3월호 리액션을 해보았습니다\n좋은분 같네요 찬영씨\n\n감사합니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nsDuzXXZbvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nsDuzXXZbvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nsDuzXXZbvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nsDuzXXZbvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nsDuzXXZbvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준빵조교",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[월간데이트 리액션/3월호] 마라탕 5단계 먹방(진짜 리액션함)",
+          "description": "안녕하세요\n오늘은 월간데이트 3월호 리액션을 해보았습니다\n좋은분 같네요 찬영씨\n\n감사합니다"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hj6xFjLTJWyCS1O3YOTZE2ntAE4",
+      "id": "OL4VKKc1c5g",
+      "snippet": {
+        "publishedAt": "2025-03-22T10:06:50Z",
+        "channelId": "UC9ZLv1m7QDLv991X1-p50AA",
+        "title": "넓은집 이사해 놓고 안방만 쓰는 강민석 집에서 몰래 72시간 동안 기생하기 ㅋㅋㅋㅋㅋㅋㅋ",
+        "description": "이럴거면 안 쓰는방 월세라도 받자 ㅋㅋㅋㅋ\n\n비즈니스 문의 📩 : bomulsum_ad@naver.com\n\n보물섬  https://www.instagram.com/bomulsum_insta\n강민석 https://www.instagram.com/minshock00\n김동현 https://www.instagram.com/g.bomulsum\n이현석 https://www.instagram.com/hyeonseok_bomulsum",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OL4VKKc1c5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OL4VKKc1c5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OL4VKKc1c5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OL4VKKc1c5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OL4VKKc1c5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "보물섬",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "넓은집 이사해 놓고 안방만 쓰는 강민석 집에서 몰래 72시간 동안 기생하기 ㅋㅋㅋㅋㅋㅋㅋ",
+          "description": "이럴거면 안 쓰는방 월세라도 받자 ㅋㅋㅋㅋ\n\n비즈니스 문의 📩 : bomulsum_ad@naver.com\n\n보물섬  https://www.instagram.com/bomulsum_insta\n강민석 https://www.instagram.com/minshock00\n김동현 https://www.instagram.com/g.bomulsum\n이현석 https://www.instagram.com/hyeonseok_bomulsum"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CI9X7M9MTg4Z8PMOj6HbXyJ7Oxk",
+      "id": "UwxBab2TESw",
+      "snippet": {
+        "publishedAt": "2025-03-23T09:30:10Z",
+        "channelId": "UC4UnP3v-iaFaLdtKwp84Pmw",
+        "title": "이찬원 2024 찬가(燦歌) 앵콜콘 비하인드",
+        "description": "찬가 앵콜 콘서트의 마지막 날\n그 뜨거웠던 현장을 담아봤습니다❤\u200d🔥\n\n2024 이찬원 콘서트 찬가(燦歌),\n콘서트부터 영화까지 사랑해주신 찬스 분들 감사드려요🫶🏻\n\nGood Bye 찬가(燦歌)!🥹\n\n#이찬원 #LeeChanWon\n#찬가 #콘서트 #비하인드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UwxBab2TESw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UwxBab2TESw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UwxBab2TESw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UwxBab2TESw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UwxBab2TESw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이찬원",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "이찬원 2024 찬가(燦歌) 앵콜콘 비하인드",
+          "description": "찬가 앵콜 콘서트의 마지막 날\n그 뜨거웠던 현장을 담아봤습니다❤\u200d🔥\n\n2024 이찬원 콘서트 찬가(燦歌),\n콘서트부터 영화까지 사랑해주신 찬스 분들 감사드려요🫶🏻\n\nGood Bye 찬가(燦歌)!🥹\n\n#이찬원 #LeeChanWon\n#찬가 #콘서트 #비하인드"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hjki52VyiTD7xshLz5TWL9RA2ek",
+      "id": "IY7V8fEYFP0",
+      "snippet": {
+        "publishedAt": "2025-03-20T10:00:18Z",
+        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
+        "title": "[#유퀴즈온더블럭] 방송에 나와서 못하는 소리가 없다🗣 걸어다니는 DJ 장비 ‘월클 비트박서’ 윙👑",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#유퀴즈온더블럭 #유퀴즈 #유재석 #조세호\n매주 수요일 저녁 8시 45분 tvN에서!\n\nwe’re :DIGGLE family\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IY7V8fEYFP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IY7V8fEYFP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IY7V8fEYFP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IY7V8fEYFP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IY7V8fEYFP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "디글 :Diggle",
+        "tags": [
+          "CJ100",
+          "YOUQUIZONTHEBLOCK",
+          "tvN 유퀴즈",
+          "골든아워",
+          "닥터헬기",
+          "디글 유퀴즈",
+          "문소리 엄마",
+          "문소리 이향란",
+          "비트박서",
+          "비트박스 대회",
+          "윙 도파민",
+          "유재석",
+          "유재석 조세호",
+          "유퀴즈",
+          "유퀴즈 감동",
+          "유퀴즈 게스트",
+          "유퀴즈 골든아워",
+          "유퀴즈 노가리",
+          "유퀴즈 눈물",
+          "유퀴즈 다시보기",
+          "유퀴즈 레전드",
+          "유퀴즈 레전드 모음",
+          "유퀴즈 몰아보기",
+          "유퀴즈 문소리",
+          "유퀴즈 배우",
+          "유퀴즈 비트박스",
+          "유퀴즈 사투리",
+          "유퀴즈 영화",
+          "유퀴즈 운동선수",
+          "유퀴즈 윙",
+          "유퀴즈 유재석",
+          "유퀴즈 이국종",
+          "유퀴즈 일반인",
+          "유퀴즈 재미",
+          "유퀴즈 정경원",
+          "유퀴즈 조세호",
+          "유퀴즈 중증외상센터",
+          "유퀴즈 퀴즈",
+          "유퀴즈 풀버전",
+          "유퀴즈 할머니",
+          "유퀴즈온더블럭",
+          "유퀴즈온더블럭 다시보기",
+          "응급실",
+          "이국종 제자",
+          "정경원 교수",
+          "조세호",
+          "중증외상센터 실제 모델",
+          "티빙에서스트리밍"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[#유퀴즈온더블럭] 방송에 나와서 못하는 소리가 없다🗣 걸어다니는 DJ 장비 ‘월클 비트박서’ 윙👑",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#유퀴즈온더블럭 #유퀴즈 #유재석 #조세호\n매주 수요일 저녁 8시 45분 tvN에서!\n\nwe’re :DIGGLE family\n\n#티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-wAKBsguOIktIiGGoUxlI0H1FDc",
+      "id": "1V3SHXk4yM8",
+      "snippet": {
+        "publishedAt": "2025-03-19T09:00:02Z",
+        "channelId": "UCCZ-gBdN59pF39tbm16xvdQ",
+        "title": "어쩌지..?나 찬영오빠 진짜 좋아하는듯..[월간데이트 3월호]",
+        "description": "연습생 여러분 안녕하세요! 드디어 월간데이트 3월호네요…!!!! 긴 영상 봐주셔서 정말 정말 늘 감사합니다!!!💕\n\n찬영 오빠가 출연 어려워했는데 제가 설득(강요ㅠ)해서 나와준 만큼.. 더 예쁘게 봐주세요!!!! 찬영 오빠 노래도 많이 들어주세요!!!!!🙏🏻\n\n개인적으로 편집하면서.. 이렇게까지 진심으로 임하는게 맞는건가.. 진심인 만큼 혹여나 부정적인 반응이 있으면 더 상처가 될 것 같아서… 업로드하기 전에 아주 조금.. 걱정도 했는데요..! 그치만 여러분께서 저의 이런 솔직한 모습을 좋아해주신다고 굳게 믿어요!!! 앞으로 월간데이트가 도대체 어떻게 흘러갈지...^^ 저도 잘 모르겠어요.... \n\n🧡찰스엔터 카카오톡 이모티콘💚 \n출시됐어요!!!!!! 많은 관심 부탁드립니다 :) \n\n★PC용 20% 할인 링크★ https://sbsb.kr/zvAHhy\n\np.s. 메이크업 해주신 레오제이 스앵님 너무너무너무 감사드립니다ㅠㅠㅠㅠ 헤어 실장님도 정말 감사합니다!!!!❤️\n\n\n🎵BGM🎵\n\n아웃트로: White - 박찬영 https://www.youtube.com/watch?v=XN3ZsKEGbBg\n\n인트로: Music: Dayz Musiq -  Space Flyer\nStream:   / no-copyright-music-space-flyer-bpm120-city...  \nDayz Musiq Instagram:   / dayzmusiq  \nvideo Link: https://www.youtube.com/watch?v=OA45hm7MjDM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1V3SHXk4yM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1V3SHXk4yM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1V3SHXk4yM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1V3SHXk4yM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1V3SHXk4yM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "찰스엔터",
+        "tags": [
+          "pH-1",
+          "ph1",
+          "피에이치원",
+          "준빵조교",
+          "찰스",
+          "찰스엔터",
+          "찰스준원",
+          "찰스준빵",
+          "월간데이트",
+          "연프",
+          "커플브이로그",
+          "브이로그",
+          "vlog",
+          "데이트",
+          "소개팅",
+          "소개팅브이로그",
+          "infp",
+          "박찬영",
+          "찬영",
+          "찬영찰스",
+          "infj",
+          "인프제",
+          "infjenfp",
+          "인프제엔프피",
+          "찰스찬영",
+          "홍이삭"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "어쩌지..?나 찬영오빠 진짜 좋아하는듯..[월간데이트 3월호]",
+          "description": "연습생 여러분 안녕하세요! 드디어 월간데이트 3월호네요…!!!! 긴 영상 봐주셔서 정말 정말 늘 감사합니다!!!💕\n\n찬영 오빠가 출연 어려워했는데 제가 설득(강요ㅠ)해서 나와준 만큼.. 더 예쁘게 봐주세요!!!! 찬영 오빠 노래도 많이 들어주세요!!!!!🙏🏻\n\n개인적으로 편집하면서.. 이렇게까지 진심으로 임하는게 맞는건가.. 진심인 만큼 혹여나 부정적인 반응이 있으면 더 상처가 될 것 같아서… 업로드하기 전에 아주 조금.. 걱정도 했는데요..! 그치만 여러분께서 저의 이런 솔직한 모습을 좋아해주신다고 굳게 믿어요!!! 앞으로 월간데이트가 도대체 어떻게 흘러갈지...^^ 저도 잘 모르겠어요.... \n\n🧡찰스엔터 카카오톡 이모티콘💚 \n출시됐어요!!!!!! 많은 관심 부탁드립니다 :) \n\n★PC용 20% 할인 링크★ https://sbsb.kr/zvAHhy\n\np.s. 메이크업 해주신 레오제이 스앵님 너무너무너무 감사드립니다ㅠㅠㅠㅠ 헤어 실장님도 정말 감사합니다!!!!❤️\n\n\n🎵BGM🎵\n\n아웃트로: White - 박찬영 https://www.youtube.com/watch?v=XN3ZsKEGbBg\n\n인트로: Music: Dayz Musiq -  Space Flyer\nStream:   / no-copyright-music-space-flyer-bpm120-city...  \nDayz Musiq Instagram:   / dayzmusiq  \nvideo Link: https://www.youtube.com/watch?v=OA45hm7MjDM"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2T0I7-x80yONI-34wmr18uG_gcg",
+      "id": "EOEOe_2C6ZQ",
+      "snippet": {
+        "publishedAt": "2025-03-21T09:00:29Z",
+        "channelId": "UCkETgC-oou53G1LoICkLTUw",
+        "title": "송소희(Song Sohee) - Not a Dream [Live Video]",
+        "description": "송소희 Single ‘Not a Dream’ Live Video\n \n[CREDIT]\n \nLyrics by 송소희 Song Sohee\nComposed by 송소희 Song Sohee\nArranged by 송소희 Song Sohee, 강신웅 Kang Sinwoong\n \nDirector 조한새임 Jo Hansaeim\nDirector of Photography 이준모 Lee Junmo\n1st Ac 송현섭 Song Hyunseop\nEdit & Colour 조한새임 Jo Hansaeim\n \nAudio Recorded by 강신웅 Kang Sinwoong\n \nStylist 김세오 Kim Seoh\nHair 하람 Ha Ram, 이승희 Lee Seunghee\nMake Up 오길주 Oh Gilju, 김이안 Kim Ian, 변혜림 Byeon Hyelim\n \n[MAGIC STRAWBERRY SOUND]\n \nExecutive Producer 정기고 Junggigo\nA&R Director 김민희 Kim Minhee\n\nProject Leader 임다솔 Im Dasol\nProject Manager 이하림 Lee Harim, 안수연 An Suyeon, 김선우 Kim Seonwoo\nManagement 송소영 Song Soyoung, 정주연 Jung Juyeon, 이성광 Lee Noah\n \nGraphic Design & Arrangement 김에테르 Kim Ether\nLive Video & Visualizer 조한새임 Jo Hansaeim\nBehind Video 박주노 Park Juno\nGlobal Promotion & Translation 김나영 Kim Nayoung\n \nManagement MAGIC STRAWBERRY SOUND\n\nMelon ▶ https://vo.la/fpkDd\nGenie ▶ https://vo.la/PDUxKs\nBugs ▶ https://vo.la/PxpGCx\nFLO ▶ https://vo.la/nuIpTY\nVIBE ▶ https://vo.la/tNwMDb\nApple Music ▶ https://vo.la/ZWzmlM\nSpotify ▶ https://vo.la/rtAekz\nYT Music ▶ https://vo.la/iMTFFY\n\n#송소희 #SongSohee\n#NOTADREAM\n\n[Song Sohee Official]\nArtist Profile : https://msbsound.com/artist/song-sohee\nInstagram : https://www.instagram.com/songsohee_official\nFacebook : https://www.facebook.com/songsohee.official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EOEOe_2C6ZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EOEOe_2C6ZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EOEOe_2C6ZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EOEOe_2C6ZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EOEOe_2C6ZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송소희 [Official]",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "송소희(Song Sohee) - Not a Dream [Live Video]",
+          "description": "송소희 Single ‘Not a Dream’ Live Video\n \n[CREDIT]\n \nLyrics by 송소희 Song Sohee\nComposed by 송소희 Song Sohee\nArranged by 송소희 Song Sohee, 강신웅 Kang Sinwoong\n \nDirector 조한새임 Jo Hansaeim\nDirector of Photography 이준모 Lee Junmo\n1st Ac 송현섭 Song Hyunseop\nEdit & Colour 조한새임 Jo Hansaeim\n \nAudio Recorded by 강신웅 Kang Sinwoong\n \nStylist 김세오 Kim Seoh\nHair 하람 Ha Ram, 이승희 Lee Seunghee\nMake Up 오길주 Oh Gilju, 김이안 Kim Ian, 변혜림 Byeon Hyelim\n \n[MAGIC STRAWBERRY SOUND]\n \nExecutive Producer 정기고 Junggigo\nA&R Director 김민희 Kim Minhee\n\nProject Leader 임다솔 Im Dasol\nProject Manager 이하림 Lee Harim, 안수연 An Suyeon, 김선우 Kim Seonwoo\nManagement 송소영 Song Soyoung, 정주연 Jung Juyeon, 이성광 Lee Noah\n \nGraphic Design & Arrangement 김에테르 Kim Ether\nLive Video & Visualizer 조한새임 Jo Hansaeim\nBehind Video 박주노 Park Juno\nGlobal Promotion & Translation 김나영 Kim Nayoung\n \nManagement MAGIC STRAWBERRY SOUND\n\nMelon ▶ https://vo.la/fpkDd\nGenie ▶ https://vo.la/PDUxKs\nBugs ▶ https://vo.la/PxpGCx\nFLO ▶ https://vo.la/nuIpTY\nVIBE ▶ https://vo.la/tNwMDb\nApple Music ▶ https://vo.la/ZWzmlM\nSpotify ▶ https://vo.la/rtAekz\nYT Music ▶ https://vo.la/iMTFFY\n\n#송소희 #SongSohee\n#NOTADREAM\n\n[Song Sohee Official]\nArtist Profile : https://msbsound.com/artist/song-sohee\nInstagram : https://www.instagram.com/songsohee_official\nFacebook : https://www.facebook.com/songsohee.official"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EueLh41LN3olZNHNShnioq3MgsM",
+      "id": "IGxXGT3Mte8",
+      "snippet": {
+        "publishedAt": "2025-03-21T09:00:24Z",
+        "channelId": "UC1B6SalAoiJD7eHfMUA9QrA",
+        "title": "아 맞다 나 오늘 생일이지",
+        "description": "#스케치코미디 #숏박스 #LG스탠바이미2\n\n\nLG 스탠바이미 2 런칭 이벤트 만나러가기: https://m.site.naver.com/1EieT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IGxXGT3Mte8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IGxXGT3Mte8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IGxXGT3Mte8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IGxXGT3Mte8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IGxXGT3Mte8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏박스",
+        "tags": ["숏박스", "스케치코미디", "개그"],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "아 맞다 나 오늘 생일이지",
+          "description": "#스케치코미디 #숏박스 #LG스탠바이미2\n\n\nLG 스탠바이미 2 런칭 이벤트 만나러가기: https://m.site.naver.com/1EieT"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nJQ4VxhlNWJZ1dAVyl9txRMu0rk",
+      "id": "cw8k2ISOnD8",
+      "snippet": {
+        "publishedAt": "2025-03-20T16:00:53Z",
+        "channelId": "UCnBht7BrOx-A328KFXgysqQ",
+        "title": "[2026 FIFA 북중미 월드컵 아시아 3차 예선] 대한민국 vs 오만 풀 하이라이트",
+        "description": "쿠팡플레이에서 2026 FIFA 북중미 월드컵 아시아 3차 예선 주요 경기의 2분 하이라이트, 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n2026 FIFA 북중미 월드컵 아시아 3차 예선 쿠플하세요\nhttps://coupangplay.app.link/zb0jjdkaERb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cw8k2ISOnD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cw8k2ISOnD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cw8k2ISOnD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cw8k2ISOnD8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cw8k2ISOnD8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쿠팡플레이 스포츠",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2026 FIFA 북중미 월드컵 아시아 3차 예선] 대한민국 vs 오만 풀 하이라이트",
+          "description": "쿠팡플레이에서 2026 FIFA 북중미 월드컵 아시아 3차 예선 주요 경기의 2분 하이라이트, 풀 하이라이트, 경기 다시보기, 골모음, 주요 장면 등 영상 컨텐츠를 가장 빠르게 만나보세요!\n\n2026 FIFA 북중미 월드컵 아시아 3차 예선 쿠플하세요\nhttps://coupangplay.app.link/zb0jjdkaERb"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Xypqo96l59PJ2axb7dnV9oUTuM0",
+      "id": "JVRWw_-VFII",
+      "snippet": {
+        "publishedAt": "2025-03-22T16:31:36Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - GBB25: World League Solo Wildcard",
+        "description": "WING - GBB25: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "WING - GBB25: World League Solo Wildcard",
+          "description": "WING - GBB25: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "03543FagWKOvq6rruw87AHilR5I",
+      "id": "MbuERZK9lZI",
+      "snippet": {
+        "publishedAt": "2025-03-23T11:00:32Z",
+        "channelId": "UC0wNauoCVIfU_xtWwrczFiA",
+        "title": "삶의 질 향상시키는 쿠팡 추천템! 김나영 쿠팡 주문목록 탈탈 털기🛒",
+        "description": "삶의 질을 높여주는 #쿠팡추천템 가지고 왔어요!\n저처럼 아끼는 청바지나 자주 빨기 힘든 니트, 외투, 침구, 카페트까지\n\n국민템 #페브리즈 섬유탈취제로 간편하고 상쾌하게 관리해 보세요 😊\n\n▷ https://www.coupang.com/vp/products/8416368461?itemId=22597646720&vendorItemId=86159273509\n\n\n💛노랑색 니트는 폴로입니다💛\n\n–––\n• 인스타그램: \nhttp://www.instagram.com/nayoungkeem",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MbuERZK9lZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MbuERZK9lZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MbuERZK9lZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MbuERZK9lZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MbuERZK9lZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김나영의 nofilterTV(노필터티비)",
+        "tags": [
+          "노필터티비",
+          "nofilter tv",
+          "김나영",
+          "nayoung kim",
+          "최신우",
+          "신우",
+          "sinu choi",
+          "나영이네",
+          "이준"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "삶의 질 향상시키는 쿠팡 추천템! 김나영 쿠팡 주문목록 탈탈 털기🛒",
+          "description": "삶의 질을 높여주는 #쿠팡추천템 가지고 왔어요!\n저처럼 아끼는 청바지나 자주 빨기 힘든 니트, 외투, 침구, 카페트까지\n\n국민템 #페브리즈 섬유탈취제로 간편하고 상쾌하게 관리해 보세요 😊\n\n▷ https://www.coupang.com/vp/products/8416368461?itemId=22597646720&vendorItemId=86159273509\n\n\n💛노랑색 니트는 폴로입니다💛\n\n–––\n• 인스타그램: \nhttp://www.instagram.com/nayoungkeem"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Vk0sMiyOHr4F9mQKVzP8FcpzVcM",
+      "id": "OKMe17sNRmE",
+      "snippet": {
+        "publishedAt": "2025-03-23T11:00:25Z",
+        "channelId": "UCxBWCgdIk9VQAfUc5pINioA",
+        "title": "동생을 만난 딸이 처음 한 행동",
+        "description": "오랜만에 인사 올립니다.\n치카코, 묭삐, 윰삐 모두 건강합니다.\n이제 아빠만 건강하면 됩니다.\n\n#동생생김 #묭삐 #윰삐\n-----------------------------------------------------------------------------\n■비지니스 문의\narochika@sandboxnetwork.net\n\n■아로치카 멤버쉽 페이지\nhttps://www.youtube.com/channel/UCxBWCgdIk9VQAfUc5pINioA/join\n\n■아로치카 인스타그램\nhttps://www.instagram.com/arochika/\n-----------------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OKMe17sNRmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OKMe17sNRmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OKMe17sNRmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OKMe17sNRmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OKMe17sNRmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아로치카 arochika",
+        "tags": [
+          "한일부부",
+          "한일커플",
+          "아로치카",
+          "한일부부 아기",
+          "아로치카 태극기",
+          "아로치카 불닭볶음면",
+          "국제커플",
+          "日韓夫婦",
+          "日韓カップル",
+          "あろちか",
+          "아로치카 동물원",
+          "아로치카 국제시장",
+          "아로치카 엑셀",
+          "아로치카 논란",
+          "아로치카 이순신",
+          "아로치카 한국어공부",
+          "아로치카 야구장",
+          "아로치카 결혼",
+          "아로치카 결혼식",
+          "아로치카 프로포즈",
+          "아로치카 일본어",
+          "일본어공부",
+          "아로치카 영화리뷰",
+          "커플유튜버",
+          "부부유튜버",
+          "일본",
+          "일본인",
+          "일본 여자",
+          "묭이",
+          "묭삐",
+          "오늘의묭",
+          "아로치카 딸",
+          "아히롱",
+          "아히롱 베지밀",
+          "아로치카 물어보살",
+          "아로치카 비어걸",
+          "비어걸",
+          "치카코",
+          "아론",
+          "아로치카 베지밀",
+          "히로",
+          "윰삐",
+          "아로치카 윰삐",
+          "아로치카 둘째"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "동생을 만난 딸이 처음 한 행동",
+          "description": "오랜만에 인사 올립니다.\n치카코, 묭삐, 윰삐 모두 건강합니다.\n이제 아빠만 건강하면 됩니다.\n\n#동생생김 #묭삐 #윰삐\n-----------------------------------------------------------------------------\n■비지니스 문의\narochika@sandboxnetwork.net\n\n■아로치카 멤버쉽 페이지\nhttps://www.youtube.com/channel/UCxBWCgdIk9VQAfUc5pINioA/join\n\n■아로치카 인스타그램\nhttps://www.instagram.com/arochika/\n-----------------------------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WDiNYFkxn-fJHOuj2bmRE4kQkhE",
+      "id": "p75XqaaDfHs",
+      "snippet": {
+        "publishedAt": "2025-03-23T10:47:02Z",
+        "channelId": "UCpGMU_af39h181K5yYba5DQ",
+        "title": "새로운 집에서 쭉 행복할 일만 가득하겠죠?!🏡🤍",
+        "description": "재밌게 보셨다면 좋아요와 구독도 꼭 눌러주세요👍🏻❤️\n\n비즈니스문의📨:team.yeblyz@gmail.com\n인스타그램✨:  / ye_vely_s",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p75XqaaDfHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p75XqaaDfHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p75XqaaDfHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p75XqaaDfHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p75XqaaDfHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "예블리즈",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "새로운 집에서 쭉 행복할 일만 가득하겠죠?!🏡🤍",
+          "description": "재밌게 보셨다면 좋아요와 구독도 꼭 눌러주세요👍🏻❤️\n\n비즈니스문의📨:team.yeblyz@gmail.com\n인스타그램✨:  / ye_vely_s"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q6YHaSsDrY5Uxs9qwhpW1mUnnII",
+      "id": "FuflR_WYyog",
+      "snippet": {
+        "publishedAt": "2025-03-23T05:26:45Z",
+        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
+        "title": "재충전 재소집 엿보기 #요르단전 (feat. 다시 분위기 업!) | 월드컵 3차 예선 EP.25",
+        "description": "오만전에서 응원해 주신 축구팬 여러분, 감사합니다! 요르단전에서도 뜨거운 응원 부탁드립니다!\n\n✔2026 FIFA 월드컵 아시아 3차 예선\n🇰🇷v🇯🇴#요르단 03.25 (화) 20:00\n🏟수원월드컵경기장 📺쿠팡플레이, MBC\n#대한민국 #축구국가대표팀 #월드컵 #3차예선\n\n#대한축구협회 공식 채널\r\n대한민국 축구 국가대표팀  https://www.facebook.com/KoreaFootballTeam\r\n페이스북 : https://www.facebook.com/kfa\r\n인스타그램 : https://instagram.com/thekfa/\r\n트위터 : https://twitter.com/theKFA\r\n네이버TV http://tv.naver.com/kfa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FuflR_WYyog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FuflR_WYyog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FuflR_WYyog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FuflR_WYyog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FuflR_WYyog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KFATV 대한민국 축구 국가대표팀",
+        "tags": [
+          "축구",
+          "대한축구협회",
+          "축구국가대표팀",
+          "남자축구대표팀",
+          "여자축구대표팀",
+          "벤투",
+          "벤투호",
+          "콜린벨",
+          "콜린벨호",
+          "손흥민",
+          "이강인",
+          "황의조",
+          "김민재",
+          "황인범",
+          "김문환",
+          "정우영",
+          "기성용",
+          "황희찬",
+          "권창훈",
+          "이재성",
+          "엄원상",
+          "조현우",
+          "김승규",
+          "구성윤",
+          "김영권",
+          "송범근",
+          "이민아",
+          "장슬기",
+          "이금민",
+          "도쿄올림픽",
+          "카타르월드컵",
+          "KBS",
+          "SBS",
+          "MBC",
+          "SPORTS",
+          "SON",
+          "지소연",
+          "스포츠",
+          "한국축구",
+          "슛포러브",
+          "인캠",
+          "인사이드캠",
+          "국가대표",
+          "월드컵",
+          "카타르",
+          "FIFA",
+          "WORLDCUP",
+          "브라질",
+          "아르헨티나",
+          "AFC",
+          "SOCCER",
+          "Son Heung-min",
+          "Lee Kang-in",
+          "Hwang Hee-chan",
+          "KFA",
+          "Tottenham",
+          "challenge",
+          "recommendation",
+          "FOOTBALL",
+          "Germany",
+          "Brazil",
+          "Argentina",
+          "France",
+          "Ghana",
+          "England",
+          "Uruguay",
+          "Portugal",
+          "러시아월드컵",
+          "역대월드컵",
+          "메시",
+          "호날두",
+          "CHO Guesung",
+          "KIM Minjae",
+          "아시안컵",
+          "클린스만",
+          "설영우",
+          "조규성",
+          "클린스만호",
+          "아시안컵우승",
+          "정상챌린지",
+          "ASIAN CUP"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "재충전 재소집 엿보기 #요르단전 (feat. 다시 분위기 업!) | 월드컵 3차 예선 EP.25",
+          "description": "오만전에서 응원해 주신 축구팬 여러분, 감사합니다! 요르단전에서도 뜨거운 응원 부탁드립니다!\n\n✔2026 FIFA 월드컵 아시아 3차 예선\n🇰🇷v🇯🇴#요르단 03.25 (화) 20:00\n🏟수원월드컵경기장 📺쿠팡플레이, MBC\n#대한민국 #축구국가대표팀 #월드컵 #3차예선\n\n#대한축구협회 공식 채널\r\n대한민국 축구 국가대표팀  https://www.facebook.com/KoreaFootballTeam\r\n페이스북 : https://www.facebook.com/kfa\r\n인스타그램 : https://instagram.com/thekfa/\r\n트위터 : https://twitter.com/theKFA\r\n네이버TV http://tv.naver.com/kfa"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8dPnO3PC_Q9_M3cHZPSk49BZ7UA",
+      "id": "wlKa1oeObJw",
+      "snippet": {
+        "publishedAt": "2025-03-23T03:44:15Z",
+        "channelId": "UC12XQWcIlaavjjbhh6EeMJw",
+        "title": "[2025 KLPGA] 중계하던 아나운서가 너무 놀랐다..  327m 원 온 만드는 이동은｜골프구단 대항전 최종일_스크램블",
+        "description": "#파4원온 #이동은 #조혜지2 #SBI #KLPGA #2025_골프구단대항전 #전남여수 #디오션CC #우승상금_5천만원",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wlKa1oeObJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wlKa1oeObJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wlKa1oeObJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wlKa1oeObJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wlKa1oeObJw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Golf",
+        "tags": [
+          "골프",
+          "SBS골프",
+          "KLPGA",
+          "골프레슨",
+          "골프자세",
+          "골프스윙",
+          "백스윙",
+          "퍼팅",
+          "골프연습",
+          "여자골프",
+          "골프클럽",
+          "골프장",
+          "비거리",
+          "GOLF",
+          "드라이버",
+          "아이언"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[2025 KLPGA] 중계하던 아나운서가 너무 놀랐다..  327m 원 온 만드는 이동은｜골프구단 대항전 최종일_스크램블",
+          "description": "#파4원온 #이동은 #조혜지2 #SBI #KLPGA #2025_골프구단대항전 #전남여수 #디오션CC #우승상금_5천만원"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bOesBwgDYos6qtpVf7IGDPtpn3Q",
+      "id": "KswmHlOTlns",
+      "snippet": {
+        "publishedAt": "2025-03-21T05:00:22Z",
+        "channelId": "UCrxSR4OGbJBVjYxp4xjWgZQ",
+        "title": "마트에 이거 보이면 무조건 담아오세요. 👍👍지금까지 안먹은걸 후회합니다. 맛있는 풋마늘 요리 3가지. 강쉪",
+        "description": "📌요리 관련 비지니스 문의\n👉beherit00@naver.com\n\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n{ 풋마늘 요리 3가지 }\n\n{풋마늘 무침} 4인분 00:23\n풋마늘 500g, 통마늘 2개,\n\n양념: 고추장 크게 1스푼, 보통 1스푼, 쌈장 크게 1스푼,\n식초 1스푼, 참기름 2스푼, 통깨 2스푼,\n\n\n{풋마늘 멸치볶음} 4인분 04:29\n풋마늘 250g, 잔멸치 2 종이컵, 통마늘 2개,\n\n양념: 진간장 2스푼, 다진마늘 2스푼, 올리고당 4스푼,\n참기름 1스푼, 통깨 1스푼, 식초 1스푼, 물 4스푼, 식용유 1스푼,\n\n\n{ 풋마늘 장아찌 } 07:42\n풋마늘 700g, 청양고추 3개, 진간장 2종이컵, 물 2, 1/2종이컵,\n식초 1종이컵, 설탕 2/3종이컵,\n\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n🧊비닐봉지 대신 땡스소윤 밀폐 용기로 깔끔하게 정리하세요!\n\n✅ 공간 절약 & 신선도 유지\n✅ 비린내 차단 & 한눈에 보이는 정리력\n\n\n📅 땡스소윤 냉동용기 공동구매  3월 18일 ~ 23일(일요일)  까지🔔\n\n[ 👍땡스소윤 공구 영상 ]\nhttps://www.youtube.com/watch?v=cRIzZEJ2tog\n\n[🍀구매 링크]\nhttps://link.inpock.co.kr/kangchef\n\n🎁구매 인증 이벤트🎁\n구매 인증 댓글과 전화번호 끝 4자리 남겨주시면,\n땡스소윤 밀큐브 세트  10분께 증정!\n놓치지 말고 이벤트도 참여하세요.\n\n👉 땡스소윤만의 장점!!\n\n✔️ 용기별로 규격이 딱 맞아 냉동실 정리가 가능하고\n✔️ 유연한 재질로 내용물 분리가 쉬움\n✔️ 바닥 돌기 설계로 해동 없이 분리가능\n✔️ 이중 밀폐력으로 신선도 유지\n✔️ 전자레인지 2분 이내 사용 가능(뚜껑 제외)\n✔️ BPA FREE & 유해물질 미검출\n✔️ 소분을 위한 칸칸이 사용 가능\n\n==========================================\n풋마늘 요리, 풋마늘 레시피,풋마늘 무침,풋마늘무침 하는 방법,\n풋마늘 멸치볶음,멸치볶음 맛있게 하는 법,\n멸치볶음 황금레시피,풋마늘 장아찌, 풋마늘 장아찌 담그는법,강쉪,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KswmHlOTlns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KswmHlOTlns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KswmHlOTlns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KswmHlOTlns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KswmHlOTlns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강쉪",
+        "tags": [
+          "풋마늘 요리",
+          "풋마늘 레시피",
+          "풋마늘 무침",
+          "풋마늘무침 하는 방법",
+          "풋마늘 멸치볶음",
+          "멸치볶음 맛있게 하는 법",
+          "멸치볶음 황금레시피",
+          "풋마늘 장아찌",
+          "풋마늘 장아찌 담그는법",
+          "강쉪"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "마트에 이거 보이면 무조건 담아오세요. 👍👍지금까지 안먹은걸 후회합니다. 맛있는 풋마늘 요리 3가지. 강쉪",
+          "description": "📌요리 관련 비지니스 문의\n👉beherit00@naver.com\n\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n{ 풋마늘 요리 3가지 }\n\n{풋마늘 무침} 4인분 00:23\n풋마늘 500g, 통마늘 2개,\n\n양념: 고추장 크게 1스푼, 보통 1스푼, 쌈장 크게 1스푼,\n식초 1스푼, 참기름 2스푼, 통깨 2스푼,\n\n\n{풋마늘 멸치볶음} 4인분 04:29\n풋마늘 250g, 잔멸치 2 종이컵, 통마늘 2개,\n\n양념: 진간장 2스푼, 다진마늘 2스푼, 올리고당 4스푼,\n참기름 1스푼, 통깨 1스푼, 식초 1스푼, 물 4스푼, 식용유 1스푼,\n\n\n{ 풋마늘 장아찌 } 07:42\n풋마늘 700g, 청양고추 3개, 진간장 2종이컵, 물 2, 1/2종이컵,\n식초 1종이컵, 설탕 2/3종이컵,\n\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n🧊비닐봉지 대신 땡스소윤 밀폐 용기로 깔끔하게 정리하세요!\n\n✅ 공간 절약 & 신선도 유지\n✅ 비린내 차단 & 한눈에 보이는 정리력\n\n\n📅 땡스소윤 냉동용기 공동구매  3월 18일 ~ 23일(일요일)  까지🔔\n\n[ 👍땡스소윤 공구 영상 ]\nhttps://www.youtube.com/watch?v=cRIzZEJ2tog\n\n[🍀구매 링크]\nhttps://link.inpock.co.kr/kangchef\n\n🎁구매 인증 이벤트🎁\n구매 인증 댓글과 전화번호 끝 4자리 남겨주시면,\n땡스소윤 밀큐브 세트  10분께 증정!\n놓치지 말고 이벤트도 참여하세요.\n\n👉 땡스소윤만의 장점!!\n\n✔️ 용기별로 규격이 딱 맞아 냉동실 정리가 가능하고\n✔️ 유연한 재질로 내용물 분리가 쉬움\n✔️ 바닥 돌기 설계로 해동 없이 분리가능\n✔️ 이중 밀폐력으로 신선도 유지\n✔️ 전자레인지 2분 이내 사용 가능(뚜껑 제외)\n✔️ BPA FREE & 유해물질 미검출\n✔️ 소분을 위한 칸칸이 사용 가능\n\n==========================================\n풋마늘 요리, 풋마늘 레시피,풋마늘 무침,풋마늘무침 하는 방법,\n풋마늘 멸치볶음,멸치볶음 맛있게 하는 법,\n멸치볶음 황금레시피,풋마늘 장아찌, 풋마늘 장아찌 담그는법,강쉪,"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "llxiavqyGCH9lEfvGXzf9S1OwLQ",
+      "id": "r4BX6NJmPm0",
+      "snippet": {
+        "publishedAt": "2025-03-22T12:00:06Z",
+        "channelId": "UCru-NhkqWnxg7-b5Q579YfA",
+        "title": "[SUB] 서로를 너무 잘 아는 엔믹스의 거울 치료 현장😜 | 아이돌 인간극장",
+        "description": "#NMIXX #KNOW_ABOUT_ME #아이돌인간극장\n\n리더 해원, 오늘부로 막내가 되길 선전 포고하다?!\n내친김에 각자 서로의 모습을 따라 해보는데...🤣\n\n대본 없는 리얼(?) 다큐 [아이돌 인간극장]에 오신 여러분\n모두 환영합니다🎉\n\nEveryone, welcome to real (?) documentary no script [Idol Human Theater]🎉\n \nMore from #KBSKPOP\n\nTwitter:      https://twitter.com/idolhumandocu\nInstagram: https://www.instagram.com/kbs_kpop_official/\n\n🎥제작 : STUDIO K\n📩비즈니스 문의 : officialstudiokk@gmail.com\n\nCopyright ⓒ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r4BX6NJmPm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r4BX6NJmPm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r4BX6NJmPm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r4BX6NJmPm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r4BX6NJmPm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이돌 인간극장",
+        "tags": [
+          "KBS",
+          "KBSKPOP",
+          "StudioK",
+          "케이비에스",
+          "케이팝",
+          "스튜디오케이",
+          "스튜디오K",
+          "아이돌 인간극장",
+          "아이돌 인생극장",
+          "아인극",
+          "인간극장",
+          "아이돌인간극장",
+          "하이퍼 페이크 리얼리티",
+          "엔믹스",
+          "릴리",
+          "LILY",
+          "해원",
+          "HAEWON",
+          "설윤",
+          "SULLYOON",
+          "배이",
+          "BAE",
+          "지우",
+          "JIWOO",
+          "규진",
+          "KYUJIN",
+          "KNOW ABOUT ME",
+          "엔믹스 컴백",
+          "엔믹스컴백",
+          "NMIXX KNOW ABOUT ME"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[SUB] 서로를 너무 잘 아는 엔믹스의 거울 치료 현장😜 | 아이돌 인간극장",
+          "description": "#NMIXX #KNOW_ABOUT_ME #아이돌인간극장\n\n리더 해원, 오늘부로 막내가 되길 선전 포고하다?!\n내친김에 각자 서로의 모습을 따라 해보는데...🤣\n\n대본 없는 리얼(?) 다큐 [아이돌 인간극장]에 오신 여러분\n모두 환영합니다🎉\n\nEveryone, welcome to real (?) documentary no script [Idol Human Theater]🎉\n \nMore from #KBSKPOP\n\nTwitter:      https://twitter.com/idolhumandocu\nInstagram: https://www.instagram.com/kbs_kpop_official/\n\n🎥제작 : STUDIO K\n📩비즈니스 문의 : officialstudiokk@gmail.com\n\nCopyright ⓒ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d8NOZtAoZOMdrU4AS4RikLiRkQE",
+      "id": "V4VhVtfDqLM",
+      "snippet": {
+        "publishedAt": "2025-03-23T03:00:33Z",
+        "channelId": "UCO6E0ddL7e1iC_2DC7Po42w",
+        "title": "더보이즈 (THE BOYZ) VVV PUNCH | Ep.1",
+        "description": "더보이즈 (THE BOYZ) VVV PUNCH | Ep.1\n\nTHE BOYZ Official\nYoutube : https://www.youtube.com/@officialTHEBOYZ\nInstagram : https://www.instagram.com/THEBOYZ_officl/\nX : https://twitter.com/THEBOYZ_officl\nTikTok : https://www.tiktok.com/@theboyz_officl\n\nOne Hundred Label Official\nYoutube : https://www.youtube.com/@100RED_official\nInstagram : https://instagram.com/100red_official\nX : https://twitter.com/100red_official\nTikTok : https://www.tiktok.com/@100red_official\n\n#VVV \n#THEBOYZ #더보이즈 \n#100RED #원헌드레드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V4VhVtfDqLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V4VhVtfDqLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V4VhVtfDqLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V4VhVtfDqLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V4VhVtfDqLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "더보이즈 (THE BOYZ)",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "더보이즈 (THE BOYZ) VVV PUNCH | Ep.1",
+          "description": "더보이즈 (THE BOYZ) VVV PUNCH | Ep.1\n\nTHE BOYZ Official\nYoutube : https://www.youtube.com/@officialTHEBOYZ\nInstagram : https://www.instagram.com/THEBOYZ_officl/\nX : https://twitter.com/THEBOYZ_officl\nTikTok : https://www.tiktok.com/@theboyz_officl\n\nOne Hundred Label Official\nYoutube : https://www.youtube.com/@100RED_official\nInstagram : https://instagram.com/100red_official\nX : https://twitter.com/100red_official\nTikTok : https://www.tiktok.com/@100red_official\n\n#VVV \n#THEBOYZ #더보이즈 \n#100RED #원헌드레드"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MQIo_D8GAVBghestkKeXbiAvpcc",
+      "id": "mJCdWNZXsRA",
+      "snippet": {
+        "publishedAt": "2025-03-22T11:13:57Z",
+        "channelId": "UCyozK5OFN5lDrwim5wqQnLA",
+        "title": "아들 친구가 집에 놀러왔다! 요리를 해보자.",
+        "description": "하하.. 아가들아 너네도 맛있었지..?\n\n\n#결국은 #어른들의 #파티   \n\n📸인스타그램\nhttps://www.instagram.com/yonamism/\n\n👶꿀떡이 인스타\nhttps://www.instagram.com/127_eh/\n\n📌자주 묻는 질문 QnA영상\nhttps://www.youtube.com/watch?v=AoicwJ1zvPU\n\n\n-음악-\n\nRun the World - Mike Parr\n\nCome Back Again - Victor Lundberg\n\nJetski - Kiddo Keys\n\nBaby You Are Really Hurting Me - OTE\n\nAin't Nobody Like You - Wildflowers\n\nCar Park - Martin Klem\n\nThe Knox Mine - Roy Williams\n\n비즈니스 문의\nmiromagic@naver.com\n\n🎬편집\n김시유\nyonam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJCdWNZXsRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJCdWNZXsRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJCdWNZXsRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mJCdWNZXsRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "취미로 요리하는 남자 Yonam",
+        "tags": ["#취요남 #요남 #취미로요리하는남자"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "아들 친구가 집에 놀러왔다! 요리를 해보자.",
+          "description": "하하.. 아가들아 너네도 맛있었지..?\n\n\n#결국은 #어른들의 #파티   \n\n📸인스타그램\nhttps://www.instagram.com/yonamism/\n\n👶꿀떡이 인스타\nhttps://www.instagram.com/127_eh/\n\n📌자주 묻는 질문 QnA영상\nhttps://www.youtube.com/watch?v=AoicwJ1zvPU\n\n\n-음악-\n\nRun the World - Mike Parr\n\nCome Back Again - Victor Lundberg\n\nJetski - Kiddo Keys\n\nBaby You Are Really Hurting Me - OTE\n\nAin't Nobody Like You - Wildflowers\n\nCar Park - Martin Klem\n\nThe Knox Mine - Roy Williams\n\n비즈니스 문의\nmiromagic@naver.com\n\n🎬편집\n김시유\nyonam"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OkR_jYhCNAVO2fkOXXDkjqttoqc",
+      "id": "XsD0qzeqFOU",
+      "snippet": {
+        "publishedAt": "2025-03-23T11:30:06Z",
+        "channelId": "UC00DJ04oplqj4IUUB5vSwZw",
+        "title": "오랜만의 든든한 조합!🫢 보테가베네타 100만 원어치 주세요",
+        "description": "👇말 많은 뷰티 인스타 계정👇\nhttps://www.instagram.com/yuriaimda/\n👇말 없는 인스타 부계👇\nhttps://www.instagram.com/yuriaenza/\n👇유리아마켓 계정👇\nhttp://pf.kakao.com/_sAMmxj\n\n00:00 인트로\n00:29 웹사이트 탐방\n14:47 아이템 1\n20:55 아이템 2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XsD0qzeqFOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XsD0qzeqFOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XsD0qzeqFOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XsD0qzeqFOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XsD0qzeqFOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유리아YuRia",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "오랜만의 든든한 조합!🫢 보테가베네타 100만 원어치 주세요",
+          "description": "👇말 많은 뷰티 인스타 계정👇\nhttps://www.instagram.com/yuriaimda/\n👇말 없는 인스타 부계👇\nhttps://www.instagram.com/yuriaenza/\n👇유리아마켓 계정👇\nhttp://pf.kakao.com/_sAMmxj\n\n00:00 인트로\n00:29 웹사이트 탐방\n14:47 아이템 1\n20:55 아이템 2"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

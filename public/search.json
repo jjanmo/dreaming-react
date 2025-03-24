@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Cq3ftLkrX1oq0kR-YgPqFyWDed4",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NaARDwMieKpnKjxBxmRX_LJNEIc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U880ADVBsNg"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T06:00:18Z",
+        "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+        "title": "2025년... 현재까지 전 세계 1위 찍고 있는 이 영화...... 한국사람만 몰랐던 올해 최고의 수작...",
+        "description": "전세계1위#수작#존잼보장 이 영화를 놓치면 후회할 일 밖에 없습니다... 너무나 잘 짜여진 영화의 전개와 감독의 천재성이 돋보이는 이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U880ADVBsNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U880ADVBsNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U880ADVBsNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Popcorn & Coke Review",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T06:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ap6jtgxfJXjj53x5SLTZlR59rBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MnLdN5nteNE"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-07T09:25:35Z",
+        "channelId": "UC3xi5oaSoAKiFUAvwuyDEFA",
+        "title": "와...미친 특수능력을 가진 &quot;전 세계 1위 킬러&quot;를 잘못 건드렸다가 거대 범죄조직이 초토화 당하는 통쾌한 액션 영화",
+        "description": "결말포함 #영화리뷰 #액션영화 #전쟁영화 #최신작 영상 시청해주시는 모든 분들께 감사드립니다!! 재미있게 보셨다면 구독 좋아요 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MnLdN5nteNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MnLdN5nteNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MnLdN5nteNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채씨네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-07T09:25:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DDFbvVhjPZ7KzC6EJtJXViNTZ28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ssqXdj0Vnk0"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T02:11:26Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "제작비 4천억 원 영화 &#39;백설공주&#39;, 무너진 흥행 / SBS / #D리포트",
+        "description": "디즈니가 새로 선보인 영화 백설공주가 개봉 첫 주 미국 현지 흥행에 실패했습니다. 백설공주는 지난 주말 미국에서 흥행 1위를 기록 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ssqXdj0Vnk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ssqXdj0Vnk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ssqXdj0Vnk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T02:11:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uTa8-ozajnHKKMtvo2kkyg3BaVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dKH07Ew7AuI"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-19T12:00:57Z",
+        "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+        "title": "제 인생 영화입니다. “올해 본 영화 중 최고”... 이건 반드시 보세요!",
+        "description": "인생영화#힘든삶#희망 삶이 힘들때... 힘든 현실에 지쳐 희망이 사라졌을때... 우린 어떻게 해야 할까요? 고단한 인생의 길에서 희망을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dKH07Ew7AuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dKH07Ew7AuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dKH07Ew7AuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Popcorn & Coke Review",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-19T12:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8COljUJyH5IEXhALbcbZezAY05w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MNGrKEoejy4"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T08:00:16Z",
+        "channelId": "UCfObDXCZ9mFHSdDdX1cvMqA",
+        "title": "와...하필이면 은퇴 후 조용히 청소 일을 하며 살아가던 전직 &quot;최강 특수요원&quot;을 건드려버린 범죄조직의 역대급 최후..ㄷㄷ [영화리뷰/결말포함]《25년 3월 최신 액션영화》",
+        "description": "영화리뷰 #결말포함 #액션영화 #최신영화.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNGrKEoejy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNGrKEoejy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNGrKEoejy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "하울무비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T08:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Oktv-kQ-jy7eN-mlzBplLGqkZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tbMXFiAGJhQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-04T19:39:10Z",
+        "channelId": "UCLcHyLirbJ3qH6q9TWwJeaw",
+        "title": "🔥와..개꿀잼 한국영화🔥하필이면 1급 사형수를 건드려버린 조폭 두목의 최후..ㄷㄷ [결말포함]",
+        "description": "영화 [ 크게 될 놈 ] 줄거리 리뷰입니다. 다양한 영화 및 드라마도 계속해서 업로드 하겠습니다   재밌게 보셨다면 구독과 좋아요 꼭꼭 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tbMXFiAGJhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tbMXFiAGJhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tbMXFiAGJhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "시네마홈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-04T19:39:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NzKW12kO4URcQUE27jCDxrxyafc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P0VXrcfaMJg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T07:00:24Z",
+        "channelId": "UCkz_SSG0vbV8fYMRo1FJhMg",
+        "title": "매일 밤 산속에서 욕구를 채우는 남자의 비밀 (영화리뷰 결말포함)",
+        "description": "괜히 박스오피스 1위 작품이 아닙니다 #영화리뷰#결말포함.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0VXrcfaMJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0VXrcfaMJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0VXrcfaMJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "핫무비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T07:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "35yUhNLMq9FH7LwwLamx9mgwkmg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qrOuUWmT8LM"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-26T22:45:04Z",
+        "channelId": "UCu4SDxJgLoSnNwdWG4SDj7A",
+        "title": "(결말포함)하필이면 NO.1 부산 깡패의 무서움을 모르고 함부로 건드리면 생기는 일",
+        "description": "범죄도시4에서 김무열이 연기한 백창기가 생각나는 영화네요. 한국영화, 영화리뷰 결말포함 한방에 몰아보기 통합본, 조폭 드라마, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qrOuUWmT8LM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qrOuUWmT8LM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qrOuUWmT8LM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "영화리뷰하는사람",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-26T22:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-bMgJcL0U6kp-3lSXvwtvVvWC-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m16gpVbG9YQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T11:00:26Z",
+        "channelId": "UCx5UV_mbzajIGMnrONyBuJg",
+        "title": "14 Famous English Phrases From Movies and How to Use Them",
+        "description": "Want to sound like a true movie buff and improve your English at the same time? In this episode, we're diving into 14 of the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m16gpVbG9YQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m16gpVbG9YQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m16gpVbG9YQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "English With Kayla (Kayla)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T11:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "71Zz8wdo2a8EWfQNrKFaWz2N_gk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wxISuj0o74w"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-22T01:14:00Z",
+        "channelId": "UCxlv4aOnrRTXMRSL8bVJqEw",
+        "title": "만화도 이렇게 만들면 욕먹음;; 이병헌 vs 유아인 영화 승부 보기전 원작 실화 비하인드 총정리",
+        "description": "승부, #이병헌, #유아인, 00:00 - 인트로 00:26 - 레전드 조훈현 00:56 - 를 이긴 이창호 01:56 - 사제의 이별 03:25 - 천재 맞나? 05:36 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wxISuj0o74w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wxISuj0o74w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxISuj0o74w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "B Man 삐맨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-22T01:14:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFH6jtmIYTOCK_ErjLgFH8EwX8A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hXrxNAdzpRA"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-18T00:54:17Z",
+        "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+        "title": "제작비 950억?!!  미쳐버린 화끈함으로 15분을 순삭시키는 《힘을 숨긴 네이비 씰 특수부대》의 레전드 전쟁 액션 [영화리뷰 결말포함]",
+        "description": "영화리뷰 #결말포함 #영화소개 #액션영화 #전쟁영화 #액션 #특수요원 #전쟁영화 레이크, 2017 ※ 2020년 영상을 현재 트렌드에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hXrxNAdzpRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hXrxNAdzpRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hXrxNAdzpRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "동네비디오방",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-18T00:54:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "olqI_6cZJjjIx4j3LblxpTHIiyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TAqK2k4FDng"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-12T12:07:00Z",
+        "channelId": "UC8U-yzK8GVC_5aDhUkFtZng",
+        "title": "영화 촬영 때 실제로 한 배우?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TAqK2k4FDng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TAqK2k4FDng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TAqK2k4FDng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "체리쇼츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-12T12:07:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HzBP4AafpzPGWENPiO3XiMIh6GE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YVg2B0nvqQM"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-03T09:00:38Z",
+        "channelId": "UC7O9w0nxtdS8zmigyWfXKIA",
+        "title": "🔥 와.. 출소 후 조용히 살고 싶었던 &quot;SSS급 괴물 싸움신&quot;을 건드린 자들의 최후ㄷㄷ 《2025년 레전드 액션 영화》브로큰",
+        "description": "영화리뷰#누아르 영화#브로큰#액션 영화 #하정우#김남길#유다인 오늘은 2월 5일 개봉한 영화 '브로큰'이었습니다 많이 사랑 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YVg2B0nvqQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YVg2B0nvqQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YVg2B0nvqQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "씨네포유 cine4u",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-03T09:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mEwbXjmsT76zWFsb1klFTRDwVy8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4TQtKpkNHQA"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-18T07:10:00Z",
+        "channelId": "UCo_Jn9HBBvKDJZH0Sm79HwA",
+        "title": "미스코리아의 남편 기살리기",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4TQtKpkNHQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4TQtKpkNHQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4TQtKpkNHQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "영화톡톡",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-18T07:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MyZ2KQxpE_8ZL79oeWV4edfsa5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bx6HlkKe98k"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-22T09:00:12Z",
+        "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+        "title": "이 영화 재미없으면... 내립니다. [결말포함]",
+        "description": "영화리뷰 #결말포함 #시간순삭 이 정도의 소재와 몰입감이면... 인정합니다. 존잼입니다. 오늘도 바닷가 모래속에 숨겨진 띵작 명작 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bx6HlkKe98k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bx6HlkKe98k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bx6HlkKe98k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Popcorn & Coke Review",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-22T09:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fdib0OOFSZV1mKfkikKQlZ_qoD4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wJ0Ua42Ync0"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-03T05:36:35Z",
+        "channelId": "UCYZ4k7X4QH55oWC9Ljh98nA",
+        "title": "🔥🔥미친 스토리 엄청나게 짜임새 있는 심리 스릴러🔥🔥(영화리뷰/결말포함)",
+        "description": "영화 제목 \"노트온스캔들\" #영화리뷰결말포함 #영화추천결말 #영화결말리뷰 #명작 #추천 #영화리뷰 #영화추천결말포함 #영화결말 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wJ0Ua42Ync0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wJ0Ua42Ync0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wJ0Ua42Ync0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "명영화",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-03T05:36:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G9rzahAzFoHndo-63Z9MbtZkfUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iHP96Kt6E-8"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-26T11:08:13Z",
+        "channelId": "UC51D0k6MZ7Ou9cbC5iAq5aw",
+        "title": "드디어 이 영화 어렵게 승인 받았습니다. 극찬 받은 이 영화 꼭 보세요.[결말포함]",
+        "description": "영화에취한다 비지니스메일: allwey02@gmail.com 영화: 콜드스킨 이 영화는 원 저작권자(배급사)의 사용 허가를 받은 영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iHP96Kt6E-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iHP96Kt6E-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iHP96Kt6E-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "영화에취한다",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-26T11:08:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h51qLgSEcPZDchsMxsiOS78joXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OT1o-_YyMlI"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-12T05:45:00Z",
+        "channelId": "UCCVcybKmEUPv5hhOic3dQDg",
+        "title": "《1시간 순삭》하필 하루18시간 격투기를 수련한 찐따를 건드린 일진들의 최후(영화리뷰 결말포함)",
+        "description": "영화리뷰 #결말포함 *본 영상의 저작권은 배급사에 있으며 일체의 광고비를 받지않은 자발적 영화 홍보 리뷰입니다. *The copyright of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OT1o-_YyMlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OT1o-_YyMlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OT1o-_YyMlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "영화천국",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-12T05:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2HZlqv_Js4YFjOlDTliy7JcMudI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hTeKQ-u3T94"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-15T09:30:37Z",
+        "channelId": "UCM5qo9osuWYv_5jycVslxeA",
+        "title": "은퇴 후  조용히 살고 있던 《SSS급 특수부대원》의 조카를 납치해 베네수엘라를 초토화 시키는 최강 액션 영화! [영화리뷰/결말포함]",
+        "description": "영화리뷰 #결말포함 #특수부대 #시간순삭 안녕하세요 시네마톡입니다. 오늘의 추천작 : 롱 곤 히어로스 (Long Gone Heroes 2025) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hTeKQ-u3T94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hTeKQ-u3T94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hTeKQ-u3T94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "시네마톡",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-15T09:30:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gHmKtr6WKy75j0L6RrZQzHS-25w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sM4q0EyYzXw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-28T02:10:32Z",
+        "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+        "title": "와...... 영화 평점 9/10점. 전설의 뒤를 잇는 그 명작 영화 [결말포함]",
+        "description": "영화리뷰 #결말포함 #시간순삭 오..... 정말 재밌게 봤습니다. 모두가 아는 그 전설의 뒤를 잇는 띵작 명작 영화. 그 영화를 추천합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sM4q0EyYzXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sM4q0EyYzXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sM4q0EyYzXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Popcorn & Coke Review",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-28T02:10:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QTGjzr728l1fpeq-Ix1aoa9sMas",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LOTEH48Oav8"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-13T09:01:20Z",
+        "channelId": "UCZZLitetDJATgDM85c19CWA",
+        "title": "헐.. 치킨시켰다 보느라 한개도 못 먹음.. 진짜 빠져듭니다 이 영화..!!!",
+        "description": "시쳤해주셔서 감사합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LOTEH48Oav8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LOTEH48Oav8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LOTEH48Oav8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "라이크어무비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-13T09:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VGAHPsrfv7jCt1V0n9qgCAv0QUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8ubLbkJ_DIo"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-08T10:00:03Z",
+        "channelId": "UCfNpXQxq5VCGrt4Sv8zaKxA",
+        "title": "과거를 숨긴 채 농부로 살아가는 &#39;전설의 무법자&#39;를 건든 갱단의 최후 [영화리뷰/결말포함]",
+        "description": "제목: 올드 헨리 #영화리뷰 #결말포함 #서부.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ubLbkJ_DIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ubLbkJ_DIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ubLbkJ_DIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "다씨네_ Da Cine",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-08T10:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HFmNQUOm8NUx9VM4y20edKa2WXA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Iw5zqNgDTc"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-10T12:18:34Z",
+        "channelId": "UC6I_9-U8yQeZ7DfMhnlsbfQ",
+        "title": "와이프가 지나치게 이쁘면 이래서 힘듭니다 (영화리뷰 결말포함)",
+        "description": "영화리뷰#영화추천#영화소개.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Iw5zqNgDTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Iw5zqNgDTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Iw5zqNgDTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "안보면쏜다",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-10T12:18:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9lSztzOQdjAGKX38pserDx3BOas",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmuCKfFPs7k"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T07:00:17Z",
+        "channelId": "UCQreDC73rqiw1wSc_ZYwgHA",
+        "title": "2025 봄 기대작 마크 영화 보기 전 보고 가세요! | 마인크래프트 무비 예고편 총정리",
+        "description": "1차부터 쭉 보면 블루위키의 반응이 점점 좋아지는 것을 볼 수 있습니다. ※ 해당 예고편 번역은 공식 번역이 아닌 블루위키 번역입니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmuCKfFPs7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmuCKfFPs7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmuCKfFPs7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "블루위키",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T07:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lqez9bDEb09pOAliCUWl0e64_g4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aZHE9cpSbbY"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-23T00:54:28Z",
+        "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+        "title": "제작비 100억?!!  미쳐버린 몰입감으로 17분을 순삭시키는 《CIA 랭킹 1위 암살 요원》의 미개봉 첩보 액션 [영화리뷰 결말포함]",
+        "description": "영화리뷰 #결말포함 #영화소개 #액션영화 #전쟁영화 #액션 #특수요원 #CIA #킬러 #에런 엑하트 클래시파이드, 2024 기타 문의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aZHE9cpSbbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aZHE9cpSbbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aZHE9cpSbbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "동네비디오방",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-23T00:54:28Z"
+      }
+    }
+  ]
+}
