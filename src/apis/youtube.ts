@@ -1,6 +1,11 @@
 import axios from 'axios'
 
+const headers = {
+  'Content-Type': 'application/json',
+}
+
 const youtubeApi = axios.create({
+  headers,
   baseURL: import.meta.env.VITE_YOUTUBE_API_URL,
   params: {
     key: import.meta.env.VITE_YOUTUBE_API_KEY,
