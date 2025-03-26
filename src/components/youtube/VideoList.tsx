@@ -28,13 +28,28 @@ const VideoList = () => {
   }
 
   return (
-    <ul className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-5">
+    <ul className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-5 p-8">
       {data?.items.map((item) => {
-        const thumbnailUrl =
-          item.snippet.thumbnails?.maxres?.url || item.snippet.thumbnails?.standard?.url
+        const { snippet } = item
+        const thumbnailUrl = snippet.thumbnails?.maxres?.url || snippet.thumbnails?.standard?.url
+        const title = snippet.title
+        const channelTitle = snippet.channelTitle
+        const publishedAt = snippet.publishedAt
+
         return (
           <li key={item.id}>
-            <img src={thumbnailUrl} alt={item.snippet.title} />
+            <img
+              className="aspect-video	 object-cover rounded-lg"
+              src={thumbnailUrl}
+              alt={item.snippet.title}
+            />
+            <div className="mt-3">
+              <div className="text-sm font-semibold line-clamp-1 leading-5">{title}</div>
+              <div className="flex justify-between mt-1 text-xs text-gray-500">
+                <span>{channelTitle}</span>
+                <span>{publishedAt}</span>
+              </div>
+            </div>
           </li>
         )
       })}
