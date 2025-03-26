@@ -1,3 +1,4 @@
+import { getTimeAgo } from 'src/utils'
 import { usePopularVideosQuery } from 'src/queries/youtube'
 
 const VideoList = () => {
@@ -45,9 +46,8 @@ const VideoList = () => {
             />
             <div className="mt-3">
               <div className="text-sm font-semibold line-clamp-1 leading-5">{title}</div>
-              <div className="flex justify-between mt-1 text-xs text-gray-500">
-                <span>{channelTitle}</span>
-                <span>{publishedAt}</span>
+              <div className="mt-1 text-xs text-gray-500">
+                <span>{channelTitle}</span> · <span>{getTimeAgo(publishedAt)}</span>
               </div>
             </div>
           </li>
